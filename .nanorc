@@ -1,4 +1,4 @@
-set undo         # Enable undo/redo features
+set undo         # Enable undo/redo features -- Alt+U
 set nowrap
 
 syntax "pkgbuild" "PKGBUILD$" "\.install$"
