@@ -1,0 +1,32 @@
+background no
+out_to_console no
+out_to_x yes
+update_interval 1
+total_run_times 0
+mpd_host localhost
+use_xft yes
+font termsyn-8
+
+# Run in desktop
+own_window yes
+own_window_type desktop
+own_window_transparent yes
+own_window_hints undecorate,sticky,skip_taskbar,skip_pager,below
+
+# Transparent background
+own_window_argb_visual yes
+own_window_argb_value 0
+
+# Position
+#gap_x 10
+alignment bottom_middle
+gap_y -7
+
+# Size
+minimum_size 1300 5
+maximum_width 1300
+
+TEXT
+$if_mpd_playing
+${color #d6d6d6}${font tamsynmod-12}à${font termsyn-8}  $mpd_smart | $mpd_elapsed/$mpd_length
+$endif

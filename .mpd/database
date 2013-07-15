@@ -1,0 +1,4383 @@
+info_begin
+format: 1
+mpd_version: 0.17.4
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: Asking Alexandria
+mtime: 1370053730
+begin: Asking Alexandria
+song_begin: Asking Alexandria - Breathless.mp3
+Time: 248
+Artist: Asking Alexandria
+AlbumArtist: Asking Alexandria
+Title: Breathless
+Album: Life Gone Wild
+Track: 6/6
+Date: 2010
+Genre: Post-Hardcore
+Disc: 1/1
+mtime: 1367403616
+song_end
+song_begin: Asking Alexandria - Right Now (Na na na).mp3
+Time: 261
+Artist: Asking Alexandria
+Title: Right Now (Na na na) [Akon Cover]
+Album: Punk Goes Pop 3
+Track: 4
+Date: 2010
+Genre: Post Hardcore/Electronica
+mtime: 1367403022
+song_end
+song_begin: asking alexandria - to the stage.mp3
+Time: 211
+Artist: Asking Alexandria
+Title: To The Stage
+Album: Reckless And Relentless
+Track: 5/12
+Date: 2011
+Genre: Post Hardcore, Electro, Metalcore
+Disc: 1/1
+mtime: 1367403458
+song_end
+song_begin: 11 Reckless & Relentless.mp3
+Time: 248
+Artist: Asking Alexandria
+AlbumArtist: Asking Alexandria
+Title: Reckless & Relentless
+Album: Reckless And Relentless
+Track: 11/12
+Date: 2011
+Genre: Punk
+Disc: 1/1
+mtime: 1367999842
+song_end
+song_begin: asking alexandria - closure.mp3
+Time: 253
+Artist: Asking Alexandria
+Title: Closure
+Album: Reckless and Relentless
+Genre: Rock
+mtime: 1367403184
+song_end
+song_begin: Asking Alexandria - Run Free.mp3
+Time: 254
+Artist: Asking Alexandria
+Title: Run Free
+Album: Run Free
+Track: 07
+Date: 2012
+Genre: Scream
+mtime: 1373668344
+song_end
+song_begin: Asking Alexandria - Alerion.mp3
+Time: 135
+Artist: Asking Alexandria
+Title: Alerion
+Album: Stand Up And Scream
+mtime: 1367403298
+song_end
+song_begin: asking_alexandria-not_the_american_average.mp3
+Time: 279
+Artist: Asking Alexandria
+Title: Not The American Average
+Album: Stand Up And Scream
+Track: 9/13
+Date: 2009-09-15
+Genre: Hardcore
+mtime: 1367403370
+song_end
+song_begin: Asking Alexandria - A Prophecy.mp3
+Time: 214
+Artist: Asking Alexandria
+Title: A Prophecy
+Album: Stand Up And Scream
+Track: 11/13
+Date: 2009-09-15
+Genre: Hardcore
+mtime: 1367403516
+song_end
+song_begin: asking alexandria - change the chanelmp3.mp3
+Time: 242
+Artist: Asking Alexandria
+AlbumArtist: Asking Alexandria
+Title: Final Episode (Let's Change The Channel)
+Album: Stand Up And Scream
+Track: 2/13
+Date: 2009-09-15
+Genre: Hardcore
+Disc: 1/1
+mtime: 1367403092
+song_end
+end: Asking Alexandria
+directory: The Sketchbook
+mtime: 1373512467
+begin: The Sketchbook
+song_begin: The Sketchbook - Kioku.mp3
+Time: 224
+Artist: The Sketchbook
+AlbumArtist: Sket Dance
+Title: Kioku
+mtime: 1373667085
+song_end
+song_begin: Endah N Resha - Silence Island.mp3
+Time: 211
+Artist: Endah N Resha
+Title: Silence Island
+Track: 03
+Date: 2012
+Genre: Pop
+mtime: 1373667289
+song_end
+song_begin: colors.mp3
+Time: 284
+Artist: The Sketchbook
+AlbumArtist: The Sketchbook
+Title: Colors
+Album: Colors / Birthday
+Track: 1/2
+Date: 2012
+Genre: Anime
+Composer: tatsuo
+Disc: 1/1
+mtime: 1372815464
+song_end
+song_begin: 01. Sekai wa Okujyo de Miwataseta.mp3
+Time: 289
+Artist: The Sketchbook
+Title: Sekai wa Okujyo de Miwataseta
+Album: Sket Dance
+Track: 01
+Genre: Other
+mtime: 1373666989
+song_end
+song_begin: clear.mp3
+Time: 252
+Artist: The Sketchbook
+Title: Clear
+Album: Sket Dance OP. 6
+Track: 01
+Date: 2012
+Genre: J-Rock
+mtime: 1373667188
+song_end
+end: The Sketchbook
+song_begin: 03 We Found Love (feat. Calvin Harris).mp3
+Time: 216
+mtime: 1322048422
+song_end
+song_begin: 09 one last breath.mp3
+Time: 242
+Title: One Last Breath
+mtime: 1347200300
+song_end
+song_begin: A Bullet for my Valentine - suffocm.mp3
+Time: 218
+mtime: 1335190146
+song_end
+song_begin: A Day To Remember - All I Want.mp3
+Time: 202
+Artist: A Day To Remember
+Title: All I Want
+mtime: 1346131932
+song_end
+song_begin: Ada Band - Haruskah Ku Mati.mp3
+Time: 280
+mtime: 1346727442
+song_end
+song_begin: Adele - Someone Like You [musikane].mp3
+Time: 288
+Artist: Adele
+Title: Someone Like You
+Genre: 2011
+mtime: 1342392707
+song_end
+song_begin: Akon - Rely On.mp3
+Time: 217
+Artist: Akon
+Title: Rely On
+Date: 2011
+Genre: R&B
+Performer: (WwW.BaniCrazy.NeT)
+Performer: (WwW.BaniCrazy.NeT)
+mtime: 1338645702
+song_end
+song_begin: Akon - lonely.mp3
+Time: 236
+mtime: 1338646256
+song_end
+song_begin: All Time Low - Painting Flowers.mp3
+Time: 206
+mtime: 1309480308
+song_end
+song_begin: Andra & The Back Bone - Musnah.mp3
+Time: 232
+Artist: Andra & The BackBone
+Title: Musnah
+Date: 2007
+Genre: Pop
+Genre: Pop
+Composer: Facebook
+mtime: 1342496370
+song_end
+song_begin: Animal I Have Become - Three Days Grace.mp3
+Time: 234
+Artist: 3 Days Grace
+Title: Animal I Have Become
+Genre: Other
+mtime: 1338644062
+song_end
+song_begin: Ash Like Snow    the brilliant green.mp3
+Time: 276
+Artist: The Brilliant Green
+Title: Ash Like Snow
+mtime: 1347332759
+song_end
+song_begin: Black Eyed Pears -  Just Can't Get Enough.mp3
+Time: 220
+Artist: Black Eyed Peas
+AlbumArtist: Black Eyed Peas
+Title: Just Can't Get Enough
+Genre: Other
+mtime: 1325507306
+song_end
+song_begin: Black Eyed Peas - Boom Boom Pow.mp3
+Time: 247
+mtime: 1335190022
+song_end
+song_begin: Black Eyes Peas - The Time (The Dirty Bit).mp3
+Time: 196
+Genre: Blues
+mtime: 1345554696
+song_end
+song_begin: Black veil bride - coffin.mp3
+Time: 256
+mtime: 1346125498
+song_end
+song_begin: Boys Like Girls - Love Drunk.mp3
+Time: 231
+Artist: Boys Like Girls
+Title: Love Drunk
+Date: 2009
+Genre: Alternative
+mtime: 1311324860
+song_end
+song_begin: Bring Me The Horizon Ft. Lights - Don't Go.mp3
+Time: 292
+mtime: 1343287794
+song_end
+song_begin: Bruno Mars - Grenade (Screamo Cover).mp3
+Time: 230
+Title: Bruno Mars - Grenade (Screamo Cover)
+mtime: 1331546930
+song_end
+song_begin: Bullet For My Valentine - Tears Don't Fall.mp3
+Time: 349
+Title: Bullet For My Valentine - Tears Don't Fall (wWw.Barranca.Pe.Nu)
+mtime: 1339820792
+song_end
+song_begin: Calvin_Harris_-_Feel_So_Close.mp3
+Time: 218
+mtime: 1342961484
+song_end
+song_begin: Cascade - UNLIMITS.mp3
+Time: 89
+mtime: 1335189658
+song_end
+song_begin: Celine dion - my heart will go on.mp3
+Time: 284
+Artist: Celine Dion
+Title: My Heart Will Go On
+mtime: 1290600808
+song_end
+song_begin: Christina Perri - A Thousand Years.mp3
+Time: 283
+mtime: 1340903106
+song_end
+song_begin: Christina Perri - Jar Of Heart.mp3
+Time: 248
+Artist: Christina Perri
+Title: Jar Of Heart
+Genre: Pop
+Genre: Pop
+mtime: 1340904360
+song_end
+song_begin: Chunk! No, Captain Chunk! - We R Who We R.mp3
+Time: 206
+mtime: 1339308562
+song_end
+song_begin: Cranberries - Linger.mp3
+Time: 275
+Artist: Cranberries
+Title: Linger
+Genre: Blues
+mtime: 1341771264
+song_end
+song_begin: Disney Channel - Hanna Montana - Best of both worlds.mp3
+Time: 175
+Artist: Hannah Montana
+Title: Best Of Both Worlds
+Genre: Other
+mtime: 1342142364
+song_end
+song_begin: Edward Maya - Stereo Love.mp3
+Time: 321
+mtime: 1335190024
+song_end
+song_begin: Escape The Fate - The Guillotine.mp3
+Time: 273
+Artist: The Guillotine
+Title: Escape The Fate
+mtime: 1347719001
+song_end
+song_begin: Fall Out Boy-This Ain't A Scene It's An Arms Race.mp3
+Time: 209
+Artist: Fall Out Boy
+Title: This Ain't a Scene It's an Arms Race
+Genre: Other
+mtime: 1338647116
+song_end
+song_begin: Fear, and Loathing in Las Vegas - Take Me Out!!.mp3
+Time: 261
+Artist: Fear, and Loathing in Las Vegas
+Title: Take Me Out!
+Date: 2010
+mtime: 1357620820
+song_end
+song_begin: Flash Blog Black Label.mp3
+Time: 60
+mtime: 1337812762
+song_end
+song_begin: Flo Rida - Whistle (official Video).mp3
+Time: 227
+Artist: Flo Rida
+Title: Whistle
+mtime: 1347367036
+song_end
+song_begin: Frente - Bizarre Love Triangle.mp3
+Time: 113
+Artist: Frente
+Title: Bizzard Love Triangle
+Genre: Pop
+mtime: 1342773240
+song_end
+song_begin: Fun ft. Hayley Williams - Somebody That I used To Know.mp3
+Time: 238
+mtime: 1342745554
+song_end
+song_begin: Give me everything_pitbull.mp3
+Time: 237
+Date: 2011
+mtime: 1331547038
+song_end
+song_begin: GreenDay - Boulevard Of Broken Dreams.mp3
+Time: 263
+mtime: 1341760706
+song_end
+song_begin: HOOBASTANK- running away.mp3
+Time: 181
+Genre: Blues
+mtime: 1331547070
+song_end
+song_begin: HTML Rulez d00d.mp3
+Time: 222
+Artist: The Devil Wears Prada
+Title: HTML Rulez d00d
+Date: 2006
+mtime: 1345880358
+song_end
+song_begin: Havana Brown Feat. Pitbull - We Run The Night.mp3
+Time: 229
+Title: Havana Brown Feat. Pitbull - We Run The Night [NEW SONG 2011] - YouTube
+mtime: 1338645976
+song_end
+song_begin: I Need A Doctor.mp3
+Time: 281
+Artist: Dr. Dre feat. Eminem & Skylar Grey
+Title: I Need A Doctor
+Date: 2010
+Genre: Rap
+mtime: 1339308786
+song_end
+song_begin: Ichiban no Takaramono - Angel Beats.mp3
+Time: 360
+mtime: 1343404316
+song_end
+song_begin: JASON MRAZ - I'M YOUR.mp3
+Time: 244
+mtime: 1175870062
+song_end
+song_begin: Jackson Five - ABC.mp3
+Time: 174
+Artist: Jackson Five
+Title: ABC
+mtime: 1331548332
+song_end
+song_begin: Jason Derulo - In My Head.mp3
+Time: 202
+mtime: 1335190028
+song_end
+song_begin: Jason Derulo - Sky's the limit.mp3
+Time: 242
+mtime: 1335190028
+song_end
+song_begin: Jason Derulo - fight for you.mp3
+Time: 242
+Artist: Jason Derulo
+Title: 06 Fight for You.mp3
+mtime: 1340906352
+song_end
+song_begin: Jason Derülo - Don't Wanna Go Home.mp3
+Time: 206
+mtime: 1335190026
+song_end
+song_begin: Jason Derülo - Ridin' Solo.mp3
+Time: 217
+Title: Jason Derülo - Ridin' Solo - BORGES IN THE MIX
+Disc: /
+mtime: 1311340670
+song_end
+song_begin: Jessie J - Domino.mp3
+Time: 235
+mtime: 1331548516
+song_end
+song_begin: Jessie J Feat.B.o.B - Price Tag.mp3
+Time: 224
+Artist: Jessie J ft. B.o.B
+Title: Price Tag
+Date: 2002
+Genre: Other
+Performer: www.MzHipHop.com
+Disc: HipHop-News.Org
+mtime: 1331548402
+song_end
+song_begin: John Mayer - Free Falling.mp3
+Time: 264
+mtime: 1344841648
+song_end
+song_begin: John Mayer - Say What You Need To Say.mp3
+Time: 229
+mtime: 1323299038
+song_end
+song_begin: Justin_Beiber_feat_Jaden_Smith.mp3
+Time: 227
+mtime: 1292575784
+song_end
+song_begin: Kerispatih - Tapi Bukan Aku.mp3
+Time: 273
+mtime: 1342442138
+song_end
+song_begin: Kerispatih-lagu rindu.mp3
+Time: 286
+mtime: 1342442828
+song_end
+song_begin: Killing me inside-tanpa Dirimu.mp3
+Time: 237
+mtime: 1346132808
+song_end
+song_begin: Killing me inside-tanpa Dirimu_2.mp3
+Time: 237
+mtime: 1346724796
+song_end
+song_begin: Korea 2PM - Hands Up.mp3
+Time: 196
+mtime: 1331547134
+song_end
+song_begin: Kotak - Masih Cinta.mp3
+Time: 242
+Artist: Kotak
+Title: Masih Cinta
+Date: 2008
+mtime: 1324681695
+song_end
+song_begin: Like a G6.mp3
+Time: 219
+Artist: Far East Movement
+Title: Like a G6
+mtime: 1321314600
+song_end
+song_begin: Limp Bizkit - Rollin.mp3
+Time: 213
+Artist: Limp Bizkit -siam.to/thaimp3
+Title: Rollin (Airraid Vehicle)
+Date: 2000
+mtime: 1341768336
+song_end
+song_begin: Linkin Park-Waiting for the End.mp3
+Time: 234
+mtime: 1331547246
+song_end
+song_begin: Linkin_Park_New_Divide_DJ_Solovey_Remix_2012.mp3
+Time: 308
+Artist: Linkin Park
+Title: New Divide (DJ Solovey Remix) 2012
+Date: 2012
+mtime: 1347662828
+song_end
+song_begin: Lmfao - Rock Party Anthem .mp3
+Time: 297
+Date: 2011
+mtime: 1321314578
+song_end
+song_begin: Lupe Fiasco - Show Goes On (P.V).mp3
+Time: 230
+Genre: Other
+mtime: 1303185214
+song_end
+song_begin: MUSE - TIME IS RUNNING OUT.mp3
+Time: 239
+Title: MUSE - TIME IS RUNNING OUT
+mtime: 1331547652
+song_end
+song_begin: Maher Zein - Insya Allah.mp3
+Time: 267
+Artist: Maher elzain
+mtime: 1313309362
+song_end
+song_begin: Maher_Zein - Always_Be_There.mp3
+Time: 267
+mtime: 1313316238
+song_end
+song_begin: Maroon 5 - One More Night.mp3
+Time: 219
+Artist: Maroon 5
+Title: One More Night
+Date: 2012
+mtime: 1347285808
+song_end
+song_begin: Maroon 5 - Sweetest Goodbye.mp3
+Time: 227
+Artist: Maroon 5
+Genre: Other
+mtime: 1341471678
+song_end
+song_begin: Michael Bubble- Haven't met you yet.mp3
+Time: 241
+mtime: 1340393248
+song_end
+song_begin: New Divide - Linkin Park.mp3
+Time: 269
+mtime: 1331547358
+song_end
+song_begin: Neyo_-_Beautiful_Monster.mp3
+Time: 250
+Artist: Neyo
+Title: Beautiful Monster
+Date: 2010
+Genre: Blues
+mtime: 1323820654
+song_end
+song_begin: Of Mice & Men - Ben Threw.mp3
+Time: 191
+mtime: 1357620704
+song_end
+song_begin: Of Mice & Men - Still YDG'n.mp3
+Time: 195
+mtime: 1357620668
+song_end
+song_begin: Of Mice & Men - The Depths.mp3
+Time: 226
+mtime: 1357620632
+song_end
+song_begin: One Thing.mp3
+Time: 197
+Artist: One Direction
+mtime: 1342743406
+song_end
+song_begin: OneRepublic_-_Good_Life.mp3
+Time: 248
+Artist: One Republic
+AlbumArtist: One Republic
+Title: Good Life
+mtime: 1347663746
+song_end
+song_begin: Owl City - To the Sky.aac
+Time: 219
+mtime: 1333856436
+song_end
+song_begin: Panic! at the Disco - New Perspective.mp3
+Time: 224
+Artist: Panic! At The Disco
+mtime: 1317361466
+song_end
+song_begin: Peterpan_ Walau Habiis Terang.mp3
+Time: 220
+Artist: 02 Walau Habiis Terang
+Title: 02 Walau Habiis Terang
+mtime: 1341760818
+song_end
+song_begin: Peterpan_ kisah cintaku.mp3
+Time: 274
+Artist: 01 Kisah Cintaku
+Title: 01 Kisah Cintaku
+mtime: 1341760860
+song_end
+song_begin: Phil Collins - Easy Lover.mp3
+Time: 304
+Artist: Phil Collins & Phil Bailey
+Title: Easy Lover
+mtime: 1291197676
+song_end
+song_begin: Phil Collins - True Colors.mp3
+Time: 275
+Artist: Phil Collins
+Title: True Colors
+mtime: 1291197600
+song_end
+song_begin: Pitbul_Feat_Uher_-_DJ_Got_Us_F.mp3
+Time: 215
+Title: DJ Got Us - Falling In Love Ag
+mtime: 1331547408
+song_end
+song_begin: Primal Rock Rebellion - No Place Like Home.mp3
+Time: 188
+mtime: 1329555500
+song_end
+song_begin: Rascal Flatts - What Hurts the Most.mp3
+Time: 214
+mtime: 1342139484
+song_end
+song_begin: RedHotChiliPepers__Otherside.mp3
+Time: 256
+Artist: Red Hot Chili Peppers
+Title: Otherside
+Date: 1998
+Genre: Blues
+mtime: 1338646130
+song_end
+song_begin: Richard Marx - Right Here Waiting.mp3
+Time: 263
+mtime: 1339308884
+song_end
+song_begin: Robbie Williams - Feel.mp3
+Time: 264
+Artist: Robbie Williams
+Title: Feel
+Genre: Blues
+mtime: 1338646162
+song_end
+song_begin: Rozen-Maiden.mp3
+Time: 110
+Artist: Bara No Jubai
+Title: Rozen-Maiden
+mtime: 1346975034
+song_end
+song_begin: Saosin - Voices.mp3
+Time: 227
+mtime: 1302868590
+song_end
+song_begin: Saykoji.Games online.mp3
+Time: 201
+Title: Saykoji,http://ochay07.blogspot.com
+mtime: 1342767292
+song_end
+song_begin: Sheila On 7 - Betapa.mp3
+Time: 210
+Artist: Sheila On 7
+Title: Betapa
+Date: 2008
+mtime: 1346899800
+song_end
+song_begin: Sheila On 7 - J.A.P.mp3
+Time: 284
+Artist: Sheila On 7
+Title: Jadikan Aku Pacarmu (J.A.P)
+mtime: 1346900698
+song_end
+song_begin: Sheila On7 - Itu Aku.mp3
+Time: 281
+Artist: Seila On7
+Title: Itu Aku
+Genre: Other
+mtime: 1346900056
+song_end
+song_begin: Sheila on 7 - Bunga di Tepi Jalan.mp3
+Time: 288
+mtime: 1346899952
+song_end
+song_begin: Simple_Plan_-_Welcome To My Life.mp3
+Time: 205
+mtime: 1331547598
+song_end
+song_begin: Sora no otoshimono - Ring my bell ( Tomoki Version ).mp3
+Time: 256
+mtime: 1343788850
+song_end
+song_begin: Story Of The Year - Anthem Of Our Dying Day.mp3
+Time: 218
+Artist: Story Of The Year
+Title: Anthem Of Our Dying Day
+Genre: Rock
+mtime: 1342747440
+song_end
+song_begin: Super Junior - Sorry Sorry.mp3
+Time: 234
+Artist: Super Junior
+Title: Sorry Sorry
+Date: 2009
+mtime: 1342768480
+song_end
+song_begin: Super Junior ~ Mr.Simpel.mp3
+Time: 239
+mtime: 1328163650
+song_end
+song_begin: System Of A Down - RADIO - VIDEO.mp3
+Time: 325
+mtime: 1335190176
+song_end
+song_begin: System Of A Down - SAD STATUE.mp3
+Time: 138
+mtime: 1335190178
+song_end
+song_begin: T-Pain - Best Love Song.mp3
+Time: 196
+Title: T-Pain - Best Love Song (feat. Chris Brown) (Final Mix) produced by Young Fyre - Lyrics HD
+mtime: 1335190032
+song_end
+song_begin: The Cranberries - Promises.mp3
+Time: 326
+mtime: 1341851104
+song_end
+song_begin: The Cranberries - Zombie.mp3
+Time: 315
+mtime: 1329555816
+song_end
+song_begin: The Lucky Laki - Sahabat.mp3
+Time: 198
+Artist: Lucky - Laki
+Title: Sahabat | pandumusica.blogspot.com
+mtime: 1342584514
+song_end
+song_begin: The Used - Hard To Say.MP3
+Time: 210
+Genre: 148
+mtime: 1335189650
+song_end
+song_begin: TheATeam.mp3
+Time: 290
+Artist: Ed Sheeran
+Title: The A Team
+mtime: 1342961846
+song_end
+song_begin: The_All_American-Rejects_-_Dirty_little_secret_by_selphira.mp3
+Time: 194
+Genre: Blues
+mtime: 1347663194
+song_end
+song_begin: Three Days Grace - Never Too Late.mp3
+Time: 208
+mtime: 1346132970
+song_end
+song_begin: Tinie_Tempah_ft._Eric_Turner_-_Written_in_the_Stars.mp3
+Time: 208
+mtime: 1338646188
+song_end
+song_begin: Trance Darkness and magic.mp3
+Time: 218
+mtime: 1344466306
+song_end
+song_begin: Vadrum Meets Super Mario Bros 2.mp3
+Time: 220
+mtime: 1311409024
+song_end
+song_begin: Walking The Demon - Bullet For My Valentine.mp3
+Time: 246
+Artist: Bullet For My Valentine
+Title: Walking The Demon
+Genre: Metal
+mtime: 1341810764
+song_end
+song_begin: a day to remember - if it means alot to you.mp3
+Time: 247
+Title: A Day To Remember - If It Means Alot To You
+mtime: 1346132030
+song_end
+song_begin: ada band - karena wanita ingin dimengerti.mp3
+Time: 270
+Artist: Ada Band
+Title: Karena Wanita Ingin Dimengerti
+Genre: Other
+mtime: 1346728508
+song_end
+song_begin: adera - lebih indah.mp3
+Time: 211
+mtime: 1344841416
+song_end
+song_begin: akon - oh africa.mp3
+Time: 200
+mtime: 1338646212
+song_end
+song_begin: andra n the backbone - kepayang.mp3
+Time: 173
+Title: AndraNTheBackbone - Kepayang
+mtime: 1342497214
+song_end
+song_begin: aqua timez alones.mp3
+Time: 258
+Artist: Aqua Timez
+Title: Alones
+mtime: 1347366786
+song_end
+song_begin: bow wow (feat chris brown) - ain't thinkin about you.mp3
+Time: 231
+Artist: Bow Wow
+Title: Aint Thinkin Bout You (feat Chris Brown)
+Genre: Hip-Hop
+mtime: 1331547890
+song_end
+song_begin: bullet for my valentine - road to nowhere 1.mp3
+Time: 237
+mtime: 1345896058
+song_end
+song_begin: chris brow - With You.mp3
+Time: 253
+Artist: Chris Brown
+Title: With You
+mtime: 1331547924
+song_end
+song_begin: conor maynard   turn around ft ne yo.mp3
+Time: 242
+mtime: 1349507578
+song_end
+song_begin: d'cinnamons - galih dan ratna.mp3
+Time: 306
+Title: Galih Dan Ratna - jazzmind.co.cc
+Genre: Other
+mtime: 1342852514
+song_end
+song_begin: fire_ flies.mp3
+Time: 223
+mtime: 1342106116
+song_end
+song_begin: fly with me -kari kimmel.mp3
+Time: 208
+mtime: 1342140432
+song_end
+song_begin: guns and roses - sweet child of mine.mp3
+Time: 356
+Artist: guns and roses
+Genre: Other
+mtime: 1341765808
+song_end
+song_begin: gym_class_heroes_-_stereo_hearts_feat _adam_levine_of_maroon_5.mp3
+Time: 212
+mtime: 1322220744
+song_end
+song_begin: maroon5 ftwiz khalifa - payphone.mp3
+Time: 232
+Artist: Maroon5 ft.Wiz Khalifa
+Title: Maroon5 - PayPhone
+mtime: 1335688072
+song_end
+song_begin: melompat lebih tinggi - sheila on 7.mp3
+Time: 202
+mtime: 1346900174
+song_end
+song_begin: noah band - separuh aku.mp3
+Time: 271
+Artist: Peterpan
+Title: Separuh Aku
+Date: 2012
+Genre: Pop
+mtime: 1344207408
+song_end
+song_begin: owl city - alligator sky ft. shawn chrystopher.mp3
+Time: 191
+mtime: 1342850036
+song_end
+song_begin: pilihanku - maliq & d'essentials.mp3
+Time: 205
+Title: Pilihanku - Maliq & D'Essentials
+mtime: 1342929050
+song_end
+song_begin: preview_2.mp3
+Time: 71
+Artist: One Piece
+Genre: Anime
+mtime: 1347003622
+song_end
+song_begin: redhotchilipepers__californication.mp3
+Time: 322
+Artist: Red Hot Chili Peppers
+Title: Californication
+Genre: Alternative
+mtime: 1338646098
+song_end
+song_begin: rocketeer.mp3
+Time: 218
+Artist: Bruno Mars feat. Far East Movement
+Title: Rocketeer (Original Version)
+mtime: 1335189660
+song_end
+song_begin: saykoji - narsis.mp3
+Time: 102
+mtime: 1342748478
+song_end
+song_begin: saykoji - online.MP3
+Time: 201
+mtime: 1342584338
+song_end
+song_begin: saykoji - you copy my style (again).mp3
+Time: 159
+mtime: 1342766824
+song_end
+song_begin: secondhand serenade - fall for you.mp3
+Time: 185
+Artist: Secondhand Serenade
+Title: Fall For You
+Genre: Other
+mtime: 1331547432
+song_end
+song_begin: secondhand serenade - your call.mp3
+Time: 1021
+mtime: 1333856544
+song_end
+song_begin: the cardigans - love fool.mp3
+Time: 198
+Title: The Cardigans - Love Fool
+Genre: Blues
+mtime: 1340903670
+song_end
+song_begin: this is me.mp3
+Time: 197
+Artist: Demi lovato & Joe Jonas (Mitchie & Shane)
+Title: This is Me
+Genre: Other
+mtime: 1339309022
+song_end
+song_begin: zhou da xia (ost. kungfu dunk).mp3
+Time: 135
+Artist: Jay Chou
+Title: Zhou Da Xia
+Date: 2008
+Genre: Other
+mtime: 1340148647
+song_end
+song_begin: Akom - Angel.mp3
+Time: 214
+Artist: Akom
+AlbumArtist: Akon
+Title: Angel
+Track: 1
+Date: 2010
+Genre: Pop
+mtime: 1323820552
+song_end
+song_begin: Fall Out Boy-I Don't Care.mp3
+Time: 216
+Artist: Fall Out Boy
+Title: I Don't Care
+Track: 01/01
+Date: 2008
+Genre: English Music Audio
+mtime: 1338647064
+song_end
+song_begin: LMFAO - Party Rock Anthem (feat. lauren bennett & goonrock).mp3
+Time: 280
+Artist: LMFAO feat Lauren Bennett & GoonRock
+AlbumArtist: LMFAO
+Title: Party Rock Anthem
+Track: 1
+Date: 2011
+Genre: Pop
+mtime: 1338646058
+song_end
+song_begin: The Cranberries - Ode To My Family.mp3
+Time: 269
+Track: 1
+Date: 2010
+mtime: 1341850630
+song_end
+song_begin: black veil brides - fallen angels.mp3
+Time: 228
+Title: Black Veil Brides - Fallen Angels
+Track: 1
+Date: 2011
+mtime: 1345860558
+song_end
+song_begin: akon - na na na.mp3
+Time: 246
+Artist: Akon
+Title: Right Now (Na Na Na)
+Track: 2
+Date: 2008
+Genre: R&B
+mtime: 1338645730
+song_end
+song_begin: the devil wears prada - born to lose.mp3
+Time: 185
+Artist: The Devil Wears Prada
+Title: Born To Lose
+Track: 8/13
+Date: 2011
+Genre: Metalcore
+mtime: 1341811252
+song_end
+song_begin: sammy simorangkir - kesedihanku.mp3
+Time: 279
+Artist: Sammy Simorangkir #LaguKamu.Com
+AlbumArtist: #LaguKamu.Com
+Title: Kesedihanku #LaguKamu.Com
+Album: #LaguKamu.Com
+Date: 2011
+Genre: Pop
+Composer: #LaguKamu.Com
+Disc: #LaguKamu.Com
+mtime: 1342442694
+song_end
+song_begin: Asking+Alexandria+-+Breathless+(heminei.com).mp3
+Time: 250
+Artist: Asking Alexandria
+Title: Breathless (heminei.com)
+Album: (heminei.com)
+mtime: 1347557838
+song_end
+song_begin: LMFAO - Im Sexy And I Know It.mp3
+Time: 200
+Artist: LMFAO
+Title: I\m Sexy And I Know It (heminei.com)
+Album: (heminei.com)
+mtime: 1341950362
+song_end
+song_begin: Ada Band - Langit Tujuh Bidadari.mp3
+Time: 234
+Artist: Ada Band - lagubagus.com
+Title: Langit Tujuh Bidadari - lagubagus.com
+Album: - lagubagus.com
+Track: 3
+Genre: lagubagus.com
+mtime: 1346729598
+song_end
+song_begin: story of the year - wake up.mp3
+Time: 215
+Artist: 07904383802\dj.samo2010@yahoo.com
+Album: 07904383802\dj.samo2010@yahoo.com
+Genre: 07904383802\dj.samo2010@
+mtime: 1342748016
+song_end
+song_begin: 06 - John Mayer - Stop This Train (Acoustic).mp3
+Time: 305
+Artist: John Mayer
+Title: Stop This Train (Acoustic)
+Album: 2007-10-25, Austin City Limits
+Track: 6
+Date: 2007
+Genre: Rock
+mtime: 1344841846
+song_end
+song_begin: Adele - Someone Like You.mp3
+Time: 287
+Artist: Adele
+AlbumArtist: Adele
+Title: Someone Like You
+Album: 21
+Date: 2011
+Genre: Pop
+mtime: 1342693566
+song_end
+song_begin: Adele - Set Fire To The Rain.mp3
+Time: 242
+Artist: Adele
+AlbumArtist: Adele
+Title: Set Fire To The Rain
+Album: 21
+Track: 5
+Date: 2011
+Genre: Pop
+Composer: djbez.tumblr.com
+Performer: WWW.iM1MUSIC.NET
+Performer: WWW.iM1MUSIC.NET
+mtime: 1342694138
+song_end
+song_begin: Sean Paul Ft. Pitbull - She Doesn_t Mind.mp3
+Time: 242
+Artist: Sean Paul Ft. Pitbull :: Www.MYBiseda.Com ::
+AlbumArtist: :: Www.MYBiseda.Com ::
+Album: :: Www.MYBiseda.Com ::
+Date: 2012
+Genre: :: Www.MYBiseda.Com ::
+Composer: :: Www.MYBiseda.Com ::
+Disc: :: Www.MYBiseda.Com ::
+mtime: 1342963638
+song_end
+song_begin: 30 second to mars - attack.mp3
+Time: 189
+Artist: 30 Second To Mars
+Title: 01 Attack
+Album: A Beautiful Lie
+Track: 1
+Date: 2007
+Genre: Alternative
+mtime: 1318980928
+song_end
+song_begin: Panic! At the Disco - Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off.mp3
+Time: 200
+Artist: Panic at the Disco
+Album: A Fever You Can't Sweat Out
+Track: 1
+Date: 2005
+Genre: Alternative
+mtime: 1317361564
+song_end
+song_begin: Killing Me Inside - Tormented.mp3
+Time: 286
+Artist: Killing Me Inside
+Title: Torment
+Album: A Fresh Start To Something New
+mtime: 1346132794
+song_end
+song_begin: Queen - Bohemian Rhapsody.mp3
+Time: 354
+Artist: Queen
+Album: A Night At the Opera
+Date: 1975
+Genre: Other
+mtime: 1291187262
+song_end
+song_begin: Secondhand serenade - Maybe.mp3
+Time: 213
+Artist: Secondhand Serenade
+AlbumArtist: Secondhand Serenade
+Title: Maybe
+Album: A Twist In My Story
+Track: 3
+Date: 2008-02-19
+Genre: Rock
+mtime: 1331547472
+song_end
+song_begin: Secondhand Serenade - Goodbye.mp3
+Time: 327
+Artist: Secondhand Serenade
+AlbumArtist: Secondhand Serenade
+Title: Goodbye
+Album: A Twist In My Story
+Track: 11
+Date: 2008-02-19
+Genre: Rock
+mtime: 1335189648
+song_end
+song_begin: ada band - baiknya.mp3
+Time: 238
+Artist: ADA BAND
+Title: Baiknya
+Album: ADA BAIKNYA
+Date: 2008
+Genre: Other
+Composer: Donni
+mtime: 1346728884
+song_end
+song_begin: Ada Band - Manusia Bodoh.mp3
+Time: 249
+Artist: Artist
+Title: Track 04
+Album: ADA BAND
+Track: 4
+mtime: 1346728074
+song_end
+song_begin: Muse  Hysteria.mp3
+Time: 228
+Artist: Muse
+AlbumArtist: Muse
+Title: Hysteria
+Album: Absolution
+Track: 8
+Date: 2003
+Genre: Alternativo
+Composer: Chris Wolstenholme/Dominic Howard/Matthew Bellamy
+mtime: 1341767250
+song_end
+song_begin: akom feat. michael- hold my hand.mp3
+Time: 216
+Artist: Akon Feat. Michael Jackson
+Title: Hold My Hand
+Album: Akon - Collection
+Track: 2
+Date: 2009
+mtime: 1342140194
+song_end
+song_begin: Wali - Nenekku Pahlawanku.mp3
+Time: 258
+Artist: Wali
+Title: Nenekku Pahlawanku
+Album: Aku Bukan Bang Toyib
+Track: 6
+Date: 2011
+Genre: Pop
+mtime: 1313522858
+song_end
+song_begin: sammy simorangkir - sedang apa dan dimana.mp3
+Time: 233
+Artist: Sammy Simorangkir www.musik-corner.com
+AlbumArtist: www.musik-corner.com
+Title: Sedang Apa Dan Dimana www.musik-corner.com
+Album: Aku Kembali www.musik-corner.com
+Date: 2011
+Genre: Pop
+Composer: www.musik-corner.com
+Disc: www.musik-corner.com
+mtime: 1342442500
+song_end
+song_begin: surga cinta ada band.mp3
+Time: 262
+Artist: ADA BAND - Romantic
+Title: Track 01
+Album: Album
+Track: 1
+Genre: Blues
+mtime: 1346728660
+song_end
+song_begin: owl city - deer in the headlights.mp3
+Time: 181
+Artist: Owl City
+AlbumArtist: Owl City
+Title: Deer In the Headlights
+Album: All Things Bright And Beautiful
+Track: 02
+Date: 2011
+Genre: Synthpop, New Wave, Synthrock
+mtime: 1335189678
+song_end
+song_begin: Blink 182 - Stay Together For The Kids.mp3
+Time: 240
+Artist: Blink 182
+AlbumArtist: ALONE
+Title: Stay Together For The Kids
+Album: Alone
+mtime: 1353856453
+song_end
+song_begin: alesana-apology.mp3
+Time: 255
+Artist: Alesana
+Title: Apology
+Album: Apology
+Track: 10
+Date: 2012
+Genre: scream
+mtime: 1367640704
+song_end
+song_begin: 01 Your Body Is A Wonderland.mp3
+Time: 274
+Artist: John Mayer
+AlbumArtist: John Mayer
+Title: Your Body Is A Wonderland
+Album: As/Is: Volume 5
+Track: 01/10
+Date: 2004
+Genre: Live
+Disc: 1/1
+mtime: 1373686172
+song_end
+song_begin: Attack Attack! - I Swear I'll Change.mp3
+Time: 220
+Artist: Attack Attack!
+Title: I Swear I'll Change
+Album: Attack Attack!
+Date: 2010
+Genre: Other
+mtime: 1339308804
+song_end
+song_begin: A7x - L.O.S.T.mp3
+Time: 302
+Artist: Avenged Sevenfold
+AlbumArtist: Avenged Sevenfold
+Title: Lost
+Album: Avenged Sevenfold
+Track: 8
+Date: 2007
+mtime: 1338644340
+song_end
+song_begin: Avenged Sevenfold ~ Dear God.mp3
+Time: 395
+Artist: Avenged Sevenfold
+AlbumArtist: Avenged Sevenfold
+Title: Dear God
+Album: Avenged Sevenfold
+Track: 10
+Date: 2007
+Genre: Metal
+Composer: Avenged Sevenfold
+mtime: 1338644262
+song_end
+song_begin: secondhand serenade_half alive.mp3
+Time: 222
+Artist: Secondhand Serenade
+AlbumArtist: Secondhand Serenade
+Title: Half Alive
+Album: Awake
+Track: 1
+Genre: Rock/Pop
+Composer: John Vesely
+mtime: 1331547502
+song_end
+song_begin: Secondhand_Serenade_-_Awake.mp3
+Time: 243
+Artist: Secondhand Serenade
+AlbumArtist: Secondhand Serenade
+Title: Awake
+Album: Awake
+Track: 7
+Date: 2007
+Genre: Rock/Pop
+Composer: John Vesely
+mtime: 1331547534
+song_end
+song_begin: Bless the fall - The Reign.mp3
+Time: 240
+Artist: blessthefall
+AlbumArtist: blessthefall
+Title: The Reign
+Album: Awakening
+Track: 5
+Genre: Blues
+mtime: 1335189654
+song_end
+song_begin: Berita Kepada Kawan - EBIET G ADE .mp3
+Time: 337
+Artist: EBIET G ADE
+Title: Berita Kepada Kawan
+Album: BEST OF THE BEST
+Track: 15
+Date: 2000
+Genre: Pop
+mtime: 1342948440
+song_end
+song_begin: peterpan-Bintang Di Surga.mp3
+Time: 301
+Artist: PETERPAN
+Album: BINTANG DI SURGA
+Track: 10
+Date: 2004
+Genre: Pop
+mtime: 1329202977
+song_end
+song_begin: Muse - Starlight.mp3
+Time: 241
+Artist: M U S E
+Album: BLACK HOLES & REVELATIONS
+Track: 2
+Date: 2006
+Genre: Rock
+mtime: 1338644382
+song_end
+song_begin: Super Junior - Bonamana.mp3
+Time: 279
+Artist: Super Junior
+Title: Bonamana (MV Version)
+Album: BONAMANA
+Track: 1
+Date: 2010
+Genre: KPop
+mtime: 1328163778
+song_end
+song_begin: System Of A Down - BYOB.mp3
+Time: 257
+Artist: System Of A Down
+AlbumArtist: System Of A Down
+Title: BYOB
+Album: BYOB
+Track: 2
+Date: 2005-01-01
+Genre: Metal
+Composer: Daron Malakian/Serj Tankian
+mtime: 1335190174
+song_end
+song_begin: James Blunt - you're beautiful.mp3
+Time: 210
+Artist: James Blunt
+Title: you're beautiful
+Album: Back To Bedlam
+Track: 2
+Genre: Other
+mtime: 1339309102
+song_end
+song_begin: 01 - John Mayer - Heartbreak Warfare.mp3
+Time: 270
+Artist: John Mayer
+AlbumArtist: John Mayer
+Title: Heartbreak Warfare
+Album: Battle Studies
+Track: 01
+mtime: 1344841970
+song_end
+song_begin: 03. Half Of My Heart.mp3
+Time: 250
+Artist: JOHN MAYER
+AlbumArtist: John Mayer
+Title: Half Of My Heart
+Album: Battle Studies
+Track: 3
+Date: 2009
+Composer: John Mayer
+Disc: 1/1
+mtime: 1344841952
+song_end
+song_begin: ada band - kau auraku.mp3
+Time: 264
+Artist: Ada Band
+Title: 04 kau auraku
+Album: Best Collection
+Track: 4294967196
+Date: 0
+Genre: Other
+mtime: 1346729726
+song_end
+song_begin: Plain_White_Ts_-_1234.mp3
+Time: 198
+Artist: Plain White Ts
+Title: 1, 2, 3, 4
+Album: Big Bad World
+Track: 5/10
+Date: 2008-09-00
+Genre: Pop
+mtime: 1339308376
+song_end
+song_begin: Bless The Fall - Higinia.mp3
+Time: 159
+Artist: Bless The Fall
+AlbumArtist: BlessTheFall
+Title: Higinia
+Album: Bless The Fall
+Track: 2
+Date: 2006-00-00
+Genre: Hardcore
+Composer: blessthefall
+mtime: 1317801018
+song_end
+song_begin: boys like girls.the great escape boys like girl.mp3
+Time: 208
+Artist: Boys Like Girls
+Title: The Great Escape
+Album: Boys Like Girls
+Track: 1/12
+Date: 2006
+Genre: Alternative & Punk
+Composer: Sam Hollander/Dave Katz
+mtime: 1339308948
+song_end
+song_begin: citra scholastika - everybody knew.mp3
+Time: 220
+Artist: CITRA SCHOLASTIKA - EVERYBODY KNEW
+Title: CITRA SCHOLASTIKA - EVERYBODY KNEW
+Album: CITRA SCHOLASTIKA - EVERYBODY KNEW
+Genre: Other
+mtime: 1342775718
+song_end
+song_begin: Rascal Flatts - Life is a Highway.mp3
+Time: 279
+Artist: Rascal Flatts
+AlbumArtist: Various Artists
+Title: Life Is a Highway
+Album: Cars (Soundtrack from the Motion Picture)
+Track: 15/19
+Date: 2006
+Genre: Soundtrack
+mtime: 1342139656
+song_end
+song_begin: Avenged Sevenfold - Bat Country.mp3
+Time: 313
+Artist: Avenged Sevenfold
+AlbumArtist: Avenged Sevenfold
+Title: Bat Country
+Album: City of Evil
+Track: 4
+Date: 2005
+Genre: Metal
+Composer: Avenged Sevenfold
+mtime: 1338644166
+song_end
+song_begin: cody simpson - angel.mp3
+Time: 222
+Artist: Cody Simpson
+AlbumArtist: Cody Simpson
+Title: Angel
+Album: Coast To Coast EP
+Track: 24
+Date: 2011
+Genre: Other
+mtime: 1322233535
+song_end
+song_begin: Saosin-You're Not Alone (piano version).mp3
+Time: 256
+Artist: Saosin
+Title: 08 You're Not Alone (Piano Version)
+Album: Come Close (DISC 1) 2008
+Track: 8
+Date: 2008
+Genre: Alternative Rock
+mtime: 1339308342
+song_end
+song_begin: bring me the horrizon -  pray for plagues.mp3
+Time: 262
+Artist: Bring Me The Horizon
+Title: Pray For Plagues
+Album: Count Your Blessings
+Track: 1
+Date: 2006-10-30
+Genre: Metal
+mtime: 1335190168
+song_end
+song_begin: Carly Rae Jepson - Call Me Maybe.mp3
+Time: 193
+Artist: Carly Rae Jepsen
+AlbumArtist: Carly Rae Jepsen
+Title: Call Me Maybe
+Album: Curiosity - EP
+Track: 01/06
+Date: 2012
+Genre: Pop
+Disc: 1/1
+mtime: 1341951670
+song_end
+song_begin: Eminem - Mockingbird.mp3
+Time: 251
+Artist: Eminem
+AlbumArtist: Eminem
+Title: Eminem - MockingBird
+Album: Curtain Call: The Hits
+Track: 12
+Date: 2005
+Genre: Other
+Composer: L. Resto/Luis Resto/M. Mathers/Marshall Mathers
+mtime: 1339308660
+song_end
+song_begin: Dead By April - What Can I Say.mp3
+Time: 188
+AlbumArtist: Dead By April Deluxe Album
+Title: What Can I Say
+Album: Dead by April deluxe
+Track: 4
+Date: 2009
+Genre: Other
+Composer: www.avril-lavigne-fanclub.net
+mtime: 1338644368
+song_end
+song_begin: the devil wears prada-dogs can grow beards all over.mp3
+Time: 210
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Dogs Can Grow Beards All Over
+Album: Dear Love: A Beautiful Discord
+Track: 3
+Date: 2006-08-22
+Genre: Metal
+Composer: Mike Hranica
+mtime: 1341847008
+song_end
+song_begin: Dead By April - Where I Belong.mp3
+Time: 208
+Artist: Dead By April
+Title: Where I Belong
+Album: Demo
+Date: 2007
+Genre: Metal
+mtime: 1335190166
+song_end
+song_begin: Of Mice & Men - poker face.mp3
+Time: 208
+Artist: Of Mice & Men
+Title: Poker Face (Cover)
+Album: Demos
+Track: 03
+mtime: 1357620692
+song_end
+song_begin: 01 - Destin Histoire.mp3
+Time: 263
+Artist: yoshiki*lisa
+Title: Destin Histoire
+Album: Destin Histoire
+Track: 1
+Date: 2011
+Genre: Anime
+Genre: Anime
+mtime: 1342910986
+song_end
+song_begin: Avenged Sevenfold - Tension.mp3
+Time: 291
+Artist: Avenged Sevenfold
+Title: Tension
+Album: Diamonds In The Rough
+Track: 6
+Date: 2008-09-00
+Genre: Hard Rock
+mtime: 1338644596
+song_end
+song_begin: Avenged Sevenfold - Dancing Dead.mp3
+Time: 349
+Artist: Avenged Sevenfold
+Title: Dancing Dead
+Album: Diamonds In The Rough
+Track: 9
+Date: 2008-09-00
+Genre: Hard Rock
+mtime: 1338644656
+song_end
+song_begin: Ada Band - Masih.mp3
+Time: 300
+Artist: Ada Band
+Title: Masih
+Album: Discography
+Track: 3
+Date: 2007
+mtime: 1346727596
+song_end
+song_begin: Disney's Hercules - Go the Distancr.mp3
+Time: 282
+Artist: Disney's Hercules
+AlbumArtist: Disney's Hercules
+Title: Go the Distance (Single)
+Album: Disney's Hercules Soundtrack
+Track: 12
+Date: 1997
+Genre: Soundtrack
+mtime: 1342140852
+song_end
+song_begin: Sum 41- The Hell Song.mp3
+Time: 199
+Artist: Sum 41
+AlbumArtist: Sum 41
+Title: The Hell Song
+Album: Does This Look Infected?
+Track: 1
+Date: 2002
+Genre: Alternative & Punk
+Composer: Sum 41
+Disc: 1/1
+mtime: 1335190170
+song_end
+song_begin: Bruno Mars - Marry You.mp3
+Time: 230
+Artist: Bruno Mars
+AlbumArtist: Bruno Mars
+Title: Marry You
+Album: Doo-Wops & Hooligans
+Track: 6
+Date: 2010
+Genre: Soul and R&B
+Composer: Ari Levine/Bruno Mars/Philip Lawrence
+mtime: 1331546990
+song_end
+song_begin: Escape_The_Fate - Situations.mp3
+Time: 188
+Artist: Escape the Fate
+AlbumArtist: Escape the Fate
+Title: Situations
+Album: Dying Is Your Latest Fashion
+Track: 3
+Date: 2006
+Genre: Alternative
+Composer: Escape the Fate
+mtime: 1341485388
+song_end
+song_begin: Escape The Fate - Reverse This Curse.mp3
+Time: 221
+Artist: Escape The Fate
+AlbumArtist: Escape The Fate
+Title: Reverse This Curse
+Album: Dying Is Your Latest Fashion
+Track: 5
+Date: 2006
+Genre: Rock
+mtime: 1338645826
+song_end
+song_begin: Justin Bieber & Sean King$ton - Eenie Meenie.mp3
+Time: 203
+Artist: Justin Bieber & Sean Kingston
+AlbumArtist: Justin Bieber & Sean Kingston
+Title: Eenie Meenie
+Album: Eenie Meenie [Single]
+Track: 1
+Date: 2010
+Genre: Pop
+mtime: 1262413492
+song_end
+song_begin: good night electric-#1.mp3
+Time: 330
+Artist: Goodnight Electric
+Title: #1
+Album: Electroduce Yourself
+Track: 2
+Genre: Indie/ Disco House/ Techno
+mtime: 1335755640
+song_end
+song_begin: The Cranberries - Dreams.mp3
+Time: 269
+Artist: The Cranberries
+Title: Dreams
+Album: Everybody Else Is Doing It So
+Genre: Other
+mtime: 1341321480
+song_end
+song_begin: Neon Trees - everybody talks.mp3
+Time: 179
+Artist: Neon Trees
+AlbumArtist: Neon Trees
+Title: Everybody Talks
+Album: Everybody Talks - Single
+Track: 01/01
+Date: 2011
+Genre: Alternative
+Composer: Tyler Glenn & Tim Pagnotta
+Disc: 1/1
+mtime: 1335689916
+song_end
+song_begin: Taylor Swift - White Horse.mp3
+Time: 221
+Artist: Taylor Swift - Cassanova-ID.com
+AlbumArtist: Taylor Swift
+Title: White Horse
+Album: Fearless
+Date: 2008
+Genre: Country
+Performer: Cassanova-ID.com
+mtime: 1342143276
+song_end
+song_begin: Taylor Swift - Love Story.mp3
+Time: 233
+Artist: Taylor Swift
+AlbumArtist: Taylor Swift
+Title: Taylor Swift - Love Story
+Album: Fearless
+Track: 1
+Date: 2008
+Genre: Country
+Composer: Taylor Swift
+mtime: 1339308920
+song_end
+song_begin: a day to remember the plot to bomb the panhandle.mp3
+Time: 244
+Artist: A Day To Remember
+AlbumArtist: A Day To Remember
+Title: The Plot To Bomb The Panhandle
+Album: For Those Who Have Heart
+Track: 4
+Date: 2007
+Genre: Hardcore
+mtime: 1346132414
+song_end
+song_begin: Michael Jackson  One Day In Your Life.mp3
+Time: 258
+Artist: Michael Jackson
+AlbumArtist: Michael Jackson
+Title: One Day In Your Life
+Album: Forever Michael
+Track: 3
+Date: 1975
+Genre: R&B
+Composer: Renee Armand/Sam III Brown
+mtime: 1342140084
+song_end
+song_begin: fall out boy - dance, dance.mp3
+Time: 180
+Artist: Fall Out Boy
+AlbumArtist: Fall Out Boy
+Title: Dance, Dance
+Album: From Under The Cork Tree
+Track: 3
+Date: 2005-05-03
+Genre: Punk Rock
+Composer: Andrew Hurley/Joe Trohman/Patrick Stump/Pete Wentz
+mtime: 1338646986
+song_end
+song_begin: Fall Out Boy -  Of All The Gin Joints In All The World.mp3
+Time: 191
+Artist: Fall Out Boy
+AlbumArtist: Fall Out Boy
+Title: 02 Of All The Gin Joints In All The World
+Album: From Under The Crock Tree
+Track: 2
+Date: 2005
+Genre: Alternative
+Composer: Andrew Hurley/Joe Trohman/Patrick Stump/Pete Wentz
+mtime: 1338647006
+song_end
+song_begin: Abandon All Ships - Geeving - Guardian Angel.mp3
+Time: 250
+Artist: Abandon All Ships
+Title: Guardian Angel
+Album: Geeving
+Track: 7/10
+Date: 2010-10-05
+Genre: Hardcore
+mtime: 1335190142
+song_end
+song_begin: d'cinnamons - ku yakin cinta.mp3
+Time: 178
+Artist: d'cinnamons
+AlbumArtist: d'cinnamons
+Title: Ku Yakin Cinta
+Album: GooD MorninG
+Track: 1
+Date: 2007
+mtime: 1342852698
+song_end
+song_begin: One Republic - Good Life.mp3
+Time: 253
+Artist: OneRepublic
+Title: Good Life
+Album: Good Life - Single
+Track: 1
+Date: 2009
+Genre: Rock
+mtime: 1342745120
+song_end
+song_begin: DANIEL BEDINGFIELD - If You Are Not The One.mp3
+Time: 259
+Artist: Daniel Bedingfield
+Title: If you're not the one
+Album: Gotta Get Thru This
+Genre: Pop
+mtime: 1331547682
+song_end
+song_begin: Rascal flatts- bless the broken road.wma
+Time: 222
+Artist: Rascal Flatts
+Album: Grammy 2006 Nominees
+Title: Bless The Broken Road
+Track: 6
+Genre: (13)Pop
+mtime: 1342139634
+song_end
+song_begin: kenny g--greatest hits - forever in love.mp3
+Time: 298
+Artist: Kenny G
+Title: Forever in love
+Album: Greatest Hits
+mtime: 1338646024
+song_end
+song_begin: Phil Collins - In The Air Tonight.mp3
+Time: 331
+Artist: Phil Collins
+Title: In The Air Tonight
+Album: Greatest Hits
+Track: 15
+Genre: Pop
+mtime: 1291197530
+song_end
+song_begin: Limp bizkit  my generation.mp3
+Time: 223
+Artist: Limp Bizkit-dhaniels.com
+Title: 08 my generation
+Album: Greatest Hits-dhaniels.com
+Track: 8
+Genre: genre
+mtime: 1341799764
+song_end
+song_begin: Taiyou Iwaku Moeyo Chaos.mp3
+Time: 234
+Artist: Asumi Kana, Matsuki Miyu & Ootsubo Yuka
+AlbumArtist: Ushiro Kara Haiyori-tai G
+Title: Taiyou Iwaku Moeyo Chaos
+Album: Haiyore! Nyaruko-san OP Single - Taiyou Iwaku Moeyo Chaos
+Track: 1/4
+Date: 2012
+Genre: Anime
+mtime: 1343662008
+song_end
+song_begin: maroon 5 - never gonna leave this bed.mp3
+Time: 197
+Artist: Maroon 5
+Title: Never Gonna Leave This Bed
+Album: Hands All Over (Deluxe Edition)
+Track: 5/17
+Date: 2010-09-21
+Genre: Pop
+mtime: 1303175544
+song_end
+song_begin: Ada Band - Pemain Cinta.mp3
+Time: 243
+Artist: Ada Band
+AlbumArtist: Ada Band
+Title: Pemain Cinta
+Album: Harmonious
+Track: 4
+Date: 2008
+Genre: Pop
+Genre: Pop
+Composer: http://www.misshacker.com
+mtime: 1346727808
+song_end
+song_begin: Secondhand Serenade - Distance.mp3
+Time: 237
+Artist: Secondhand Serenade
+Title: Distance
+Album: Hear Me Now
+Track: 1/11
+Date: 2010
+Genre: Rock
+mtime: 1339308636
+song_end
+song_begin: Secondhand_Serenade_-_Hear_Me_.mp3
+Time: 324
+Artist: Secondhand Serenade
+AlbumArtist: Secondhand Serenade
+Title: Hear Me Now
+Album: Hear Me Now
+Track: 11/11
+Date: 2010
+Genre: Rock
+mtime: 1333856576
+song_end
+song_begin: Breathe Carolina - Blackout.mp3
+Time: 194
+Artist: Breathe Carolina
+Title: Blackout
+Album: Hell Is What You Make It
+Date: 2011
+Genre: Electronic
+mtime: 1329975942
+song_end
+song_begin: Lighters.mp3
+Time: 304
+Artist: Bad Meets Evil
+AlbumArtist: Bad Meets Evil
+Title: Lighters
+Album: Hell: The Sequel
+Track: 7
+Date: 2011
+Genre: Rap & Hip-Hop
+Disc: 1/1
+mtime: 1331548048
+song_end
+song_begin: Usher - Moving Mountains.mp3
+Time: 298
+Artist: Usher
+Title: Moving Mountains
+Album: Here I Stand
+Track: 5
+Date: 2008
+Genre: Rap
+mtime: 1312260190
+song_end
+song_begin: bless the fall - rise up.mp3
+Time: 223
+Artist: Blessthefall
+Title: Rise Up
+Album: His Last Walk
+Track: 5/11
+Date: 2006
+Genre: Emocore
+mtime: 1346136692
+song_end
+song_begin: A Day To Remember - My Life For Hire.mp3
+Time: 214
+Artist: A Day To Remember
+Title: My Life For Hire
+Album: Homesick
+Track: 2
+Date: 2009
+Genre: Other
+mtime: 1339308868
+song_end
+song_begin: a day to remember - the downfall of us all.mp3
+Time: 209
+Artist: A Day To Remember
+AlbumArtist: A Day To Remember
+Title: The Downfall Of Us All
+Album: Homesick
+Track: 1
+Genre: Other
+Disc: 1/1
+mtime: 1346131848
+song_end
+song_begin: a day to remeber -have faith in me.mp3
+Time: 189
+Artist: A Day To Remember
+AlbumArtist: A Day To Remember
+Title: Have Faith In Me
+Album: Homesick
+Track: 6
+Genre: Other
+Disc: 1/1
+mtime: 1346132486
+song_end
+song_begin: I Look To You.mp3
+Time: 268
+Artist: Whitney Houston
+AlbumArtist: Whitney Houston
+Title: I Look To You
+Album: I Look To You
+Track: 4
+Date: 2009
+Genre: Other
+mtime: 1338645522
+song_end
+song_begin: Sabrina - Insomnia.mp3
+Time: 268
+Artist: Sabrina
+AlbumArtist: Sabrina
+Title: Insomnia
+Album: I Love Acoustic Too
+Track: 11
+Date: 2010
+Genre: Easy Listening
+Disc: 1
+mtime: 1341321478
+song_end
+song_begin: Nick Carter - Just one kiss.mp3
+Time: 212
+Artist: Nick Carter
+AlbumArtist: Nick Carter
+Title: Just one kiss
+Album: I'm taking off
+Track: 7/12
+Date: 2011
+Genre: Pop
+mtime: 1338646248
+song_end
+song_begin: Andra And The Backbone - Lagi... Dan Lagi....mp3
+Time: 237
+Artist: Andra And The Backbone
+AlbumArtist: Andra And The Backbone
+Title: Lagi... Dan Lagi...
+Album: IMAN SKYSON
+Date: 2007
+Genre: Pop
+Performer: IMAN SKYSON
+mtime: 1342496442
+song_end
+song_begin: Papa Roach - Last Resort.mp3
+Time: 200
+Artist: PAPA ROACH
+Title: Last Resort
+Album: INFEST
+Track: 2
+Genre: Rock
+mtime: 1336749872
+song_end
+song_begin: Muse - Can't Take My Eyes Off You.mp3
+Time: 211
+Artist: MUSE
+Title: Can't Take My Eyes Off You
+Album: In Your World
+Track: 3
+Genre: Cover
+Composer: moooooose
+mtime: 1331547302
+song_end
+song_begin: Fall Out Boy - Thnks Fr Th Mmrs.mp3
+Time: 206
+Artist: Fall Out Boy
+Title: 07 Thnks Fr Th Mmrs
+Album: Infinity On High
+Track: 7
+Genre: Alternative
+mtime: 1338647026
+song_end
+song_begin: Jason Derul - It Girl.mp3
+Time: 197
+Artist: Jason Derulo
+AlbumArtist: Jason Derulo
+Title: It Girl
+Album: It Girl
+mtime: 1322222062
+song_end
+song_begin: Sheila On 7 - Kita.mp3
+Time: 274
+Artist: Sheila On 7
+Title: Kita
+Album: Jalan Terus
+mtime: 1346899638
+song_end
+song_begin: sheila on 7 - sephia.mp3
+Time: 294
+Artist: Sheila On 7
+Title: Sephia
+Album: Jalan Terus
+mtime: 1346900718
+song_end
+song_begin: Sheila on 7 - Bertahan Di Sana.mp3
+Time: 192
+Artist: Sheila On 7
+Title: 01 Bertahan Di Sana ( Previuosly Unreleased Material )
+Album: Jalan Terus
+Track: 1
+Genre: Alternative
+mtime: 1346899352
+song_end
+song_begin: Marvins Room.mp3
+Time: 347
+Artist: Drake
+Title: Marvins Room
+Album: Jamz
+Composer: Noah "40" Shebib
+mtime: 1323820346
+song_end
+song_begin: Jason Derülo - Whatcha Say.mp3
+Time: 223
+Artist: Jason Derülo
+AlbumArtist: Jason Derülo
+Title: Whatcha Say
+Album: Jason Derülo
+Track: 1
+Date: 2010
+Genre: Pop
+Composer: Imogen Heap/Jason Desrouleaux/Jonathan Rotem/Kisean Anderson
+mtime: 1311340522
+song_end
+song_begin: Fear, and Loathing in Las Vegas - Just Awake.mp3
+Time: 219
+Artist: Fear, and Loathing in Las Vegas
+Title: Just Awake
+Album: Just Awake (Single)
+Track: 1/2
+Date: 2012
+Genre: Electronic / Post-Hardcore
+mtime: 1357620848
+song_end
+song_begin: kerispatih - mengenangmu.mp3
+Time: 282
+Artist: KERISPATIH
+Album: KENYATAAN PERASAAN
+Track: 3
+Date: 2007
+Genre: Pop
+mtime: 1342442526
+song_end
+song_begin: Andra & The Backbone - Main Hati.mp3
+Time: 228
+Artist: ANDRA & THE BACKBONE
+AlbumArtist: Andra and The Backbone
+Title: Main Hati
+Album: KOMIKAMU! [http://www.komikamu.co.nr]
+Date: 2008
+Genre: Other
+mtime: 1342495032
+song_end
+song_begin: 02. beekeeper's daughter.mp3
+Time: 214
+Artist: The All-American Rejects
+Title: Beekeeper's Daughter
+Album: Kids in the Street
+Track: 2
+Date: 2012
+Genre: Rock
+Composer: The All-American Rejects
+mtime: 1347663503
+song_end
+song_begin: sheila on 7 - bila kau tak disampingku.mp3
+Time: 254
+Artist: Sheila On 7
+Title: Bila Kau Tak Disampingku - lagubagus.com
+Album: Kisah Klasik
+Track: 02
+mtime: 1346899832
+song_end
+song_begin: Sheila On 7 - Sahabat Sejati.mp3
+Time: 224
+Artist: Sheila On 7
+AlbumArtist: Sheila On 7
+Title: 01 Sahabat Sejati
+Album: Kisah Klasik Untuk Masa Depan
+Track: 1
+Genre: Pop
+mtime: 1346900010
+song_end
+song_begin: Parachute - Kiss Me Slowly.mp3
+Time: 236
+Artist: Parachute
+AlbumArtist: Parachute
+Title: Kiss Me Slowly
+Album: Kiss Me Slowly - Single
+Track: 1/1
+Date: 2011
+Genre: Pop
+Composer: Will Anderson, Charles Kelley & Dave Haywood
+mtime: 1335687502
+song_end
+song_begin: 01 TERMINATED.mp3
+Time: 260
+Artist: Minori Chihara
+Title: TERMINATED
+Album: Kyokai Senjo no Horizon OP Single - TERMINATED
+Track: 1
+Date: 2011
+Genre: Other
+mtime: 1346415256
+song_end
+song_begin: 01 Kanashimi wa Dare no Negai Demo nai .mp3
+Time: 264
+Artist: Aira Yuuki
+AlbumArtist: Aira Yuuki
+Title: Kanashimi wa Dare no Negai Demo nai
+Album: Kyoukai Senjou no Horizon II -Side SunSet- ED Single - Kanashimi wa Dare no Negai Demo nai
+Track: 1
+Date: 12/0
+Genre: Anime mUsic
+mtime: 1346536356
+song_end
+song_begin: Vanessa Carlton - 1000 miles.mp3
+Time: 237
+Artist: Vanessa Carlton
+Title: 1000 Miles
+Album: Legally Blonde OST
+Track: 07
+Date: 2001
+Genre: Sound Track
+mtime: 1335189650
+song_end
+song_begin: lenka- anything i'm not.mp3
+Time: 200
+Artist: Lenka
+AlbumArtist: Lenka
+Title: Anything I'm Not
+Album: Lenka
+Track: 5/12
+Date: 2008
+Genre: Pop
+Composer: Lenka
+mtime: 1339645566
+song_end
+song_begin: Avril Lavine - I'm With You.mp3
+Time: 223
+Artist: Avril Lavigne
+Title: I'm With You
+Album: Let Go
+Track: 4
+Date: 2002
+Genre: Alternative & Punk
+Disc: 1/1
+mtime: 1346123556
+song_end
+song_begin: Lost in you - Three Days Grace.mp3
+Time: 233
+Artist: Three Days Grace
+Title: Lost In You
+Album: Life Starts Now
+Track: 4
+Date: 2009
+Genre: Other
+mtime: 1323820260
+song_end
+song_begin: Avenged Sevenfold - almost easy.mp3
+Time: 234
+Artist: Avenged Sevenfold
+Title: Almost Easy (Cla Mix)
+Album: Live in The LBC & Diamonds In
+Track: 10
+Date: 2008
+Genre: Hard Rock
+mtime: 1338644702
+song_end
+song_begin: 07 - the man that can't be moved.mp3
+Time: 239
+Album: Lo.Mejor.De.Los.40.Principales.Noviembre.2008
+Date: 2008
+Genre: Varios
+mtime: 1344841364
+song_end
+song_begin: tinkerbell - the gift of a friend.mp3
+Time: 205
+Artist: Demi Lovato
+Title: The Gift Of A Friend-Tinkerbell
+Album: Lovato/Watts/Dodd
+Genre: Other
+mtime: 1342142792
+song_end
+song_begin: Boys Like Girl feat Taylor Swift - Two Is Better.mp3
+Time: 244
+Artist: Boys Like Girls feat Taylor Swift
+AlbumArtist: Boys Like Girls
+Title: Boys Like Girls feat Taylor Swift - Two Is Better Than One
+Album: Love Drunk
+Track: 4
+Date: 2009
+Genre: Rock
+Composer: Martin Johnson
+mtime: 1339308490
+song_end
+song_begin: Hot Chelle Rae-Bleed.mp3
+Time: 233
+Artist: Hot Chelle Rae
+Title: Bleed
+Album: Lovesick Electric
+Track: 4/11
+mtime: 1305867244
+song_end
+song_begin: John Mayer - Who Says.mp3
+Time: 178
+Artist: John Mayer
+Title: Who Says
+Album: MP3dload.com
+Date: 2009
+Genre: Rock
+mtime: 1344841796
+song_end
+song_begin: Gotye - Somebody that i used to know (feat. kimbra).m4a
+Time: 245
+Title: Somebody That I Used to Know (feat. Kimbra)
+Artist: Gotye
+AlbumArtist: Gotye
+Composer: Wally De Backer
+Album: Making Mirrors
+Genre: Alternative
+Track: 3
+Disc: 1
+Date: 2011-12-06T08:00:00Z
+mtime: 1342745670
+song_end
+song_begin: rascal flatts - my wish.mp3
+Time: 247
+Artist: Rascal Flatts
+AlbumArtist: Rascal Flatts
+Title: My Wish
+Album: Me and My Gang
+Track: 5
+Date: 2006
+Genre: Country
+Composer: Steve Robson/Steve Robson
+Disc: 1
+mtime: 1342139826
+song_end
+song_begin: Linkin park - meteora - breaking the habit.mp3
+Time: 196
+Artist: Linkin Park
+AlbumArtist: Linkin Park
+Title: Link In Park - Meteora - 09 - Breaking the Habit
+Album: Meteora
+Track: 9
+Date: 2003
+Genre: Other
+Composer: Linkin Park
+mtime: 1331547168
+song_end
+song_begin: Linkin Park ~ Numb.mp3
+Time: 187
+Artist: Linkin Park
+AlbumArtist: Linkin Park
+Title: Numb
+Album: Meteora
+Track: 13
+Date: 2003
+Genre: Rock
+Composer: Linkin Park
+mtime: 1331547206
+song_end
+song_begin: Linkin Park - In Pieces.mp3
+Time: 222
+Artist: Linkin Park
+Title: 11 In Pieces
+Album: Minutes To Midnight
+Track: 11
+Date: 2007
+Genre: Alternative
+mtime: 1339308400
+song_end
+song_begin: owl city - hot air balloon.mp3
+Time: 215
+Artist: Owl City
+Title: Hot Air Balloon
+Album: Monthly Singles - May
+Track: 2/4
+Genre: Pop
+mtime: 1328968286
+song_end
+song_begin: Moves_Like_Jagger - Maroon-Five Feat. Christina Aguilera.mp3
+Time: 202
+Artist: Maroon 5 featuring Christina Aguilera
+AlbumArtist: Maroon 5
+Title: Moves Like Jagger
+Album: Moves Like Jagger -Single
+Track: 1/1
+Date: 2011
+Genre: Pop
+mtime: 1322220990
+song_end
+song_begin: Reflection - Disney (Mulan).mp3
+Time: 215
+Artist: Disney
+Title: Reflection
+Album: Mulan
+Genre: Kids
+mtime: 1342140482
+song_end
+song_begin: My chemical helena piano.mp3
+Time: 200
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: Helena(Piano)
+Album: My Chemical Romance Piano Tribute
+Track: 2
+Date: 2007
+Genre: Piano
+mtime: 1339308698
+song_end
+song_begin: Angel_Beats_-_Brave_Song.mp3
+Time: 326
+Artist: Aoi Tada
+Title: Brave Song
+Album: My Soul, Your Beats!
+Track: 1/0
+Disc: /0
+mtime: 1340188402
+song_end
+song_begin: Justin Bieber - One Time.mp3
+Time: 216
+Artist: Justin Bieber
+AlbumArtist: Justin Bieber
+Title: One Time
+Album: My World
+Track: 1
+Date: 2009
+Genre: Dance
+Composer: C. Stewart/J. Bunton
+mtime: 1278637788
+song_end
+song_begin: cold play - paradise.mp3
+Time: 278
+Artist: Coldplay
+Title: Paradise
+Album: Mylo Xyloto
+Track: 3
+Date: 2011
+Genre: Pop
+mtime: 1342745650
+song_end
+song_begin: ada band pesona potretmu.mp3
+Time: 234
+Artist: Ada Band
+Title: Pesona Potretmu
+Album: Mystery Of Musical
+Track: 11
+Date: 2010
+Genre: Pop
+Composer: m@sbhe
+mtime: 1346727796
+song_end
+song_begin: Fear, and Loathing in Las Vegas - Jump Around.mp3
+Time: 216
+Artist: Fear, and Loathing in Las Vegas
+Title: Jump Around
+Album: NEXTREME
+Date: 2011
+mtime: 1357620888
+song_end
+song_begin: Hot Chelle Rae - Tonight, Tonight.mp3
+Time: 204
+Artist: Hot Chelle Rae
+AlbumArtist: Various Artists
+Title: Tonight, Tonight
+Album: NOW That's What I Call Music Vol. 38
+Track: 17
+Date: 2011
+Genre: General Pop Vocal
+Composer: Lindy Robbins
+Disc: 1/1
+mtime: 1331096312
+song_end
+song_begin: Fear,_and_Loathing_in_Las_Vegas_-_Chase_the_Light_.mp3
+Time: 214
+Artist: Fear, and Loathing in Las Vegas
+Title: Chase the Light!
+Album: Nextreme
+Date: 2011
+mtime: 1357620804
+song_end
+song_begin: Story Of The Year - Just Close Your Eyes.mp3
+Time: 272
+Artist: Story Of The Year
+Title: Just Close Your Eyes
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1342747646
+song_end
+song_begin: Avenged Sevenfold - Buried Alive.mp3
+Time: 405
+Artist: Avenged Sevenfold
+AlbumArtist: Avenged Sevenfold
+Title: Buried Alive
+Album: Nightmare
+Track: 4
+Date: 2010
+Genre: Metal
+Composer: Seward
+mtime: 1338644210
+song_end
+song_begin: Simple Plan - Perfect.mp3
+Time: 278
+Artist: Simple Plan
+Title: Perfect
+Album: No Pads, No Helmets...Just Balls
+Date: 2002
+Genre: Punk
+mtime: 1343287838
+song_end
+song_begin: butiran debu - rumor.mp3
+Time: 263
+Artist: Rumor
+Title: Butiran debu
+Album: Number one
+Track: 2
+Date: 2011
+Genre: Pop
+Composer: Ribas
+mtime: 1342585778
+song_end
+song_begin: owl city - hello seattle.mp3
+Time: 177
+Artist: Owl City
+Title: Hello Seattle
+Album: OCEAN EYES
+Track: 07
+Date: 2010
+Genre: Electronica
+mtime: 1328968128
+song_end
+song_begin: peterpan-langit tak mendengar.mp3
+Time: 233
+Artist: PETERPAN
+Album: OST ALEXANDRIA
+Track: 10
+Date: 2005
+Genre: POP
+mtime: 1133125628
+song_end
+song_begin: Go Go Dolls -All That You Are.mp3
+Time: 193
+Artist: Goo Goo Dolls By.Benny
+Title: All That You Are
+Album: OST.Transformer 3
+Date: 2011
+Genre: Pop
+mtime: 1338645902
+song_end
+song_begin: Owl City - Vanilla Twilight.mp3
+Time: 232
+Artist: Owl City
+AlbumArtist: Owl City
+Title: Vanilla Twilight
+Album: Ocean Eyes
+Track: 11
+Date: 2009
+Genre: Electronica
+mtime: 1341471266
+song_end
+song_begin: owl city metero shower.mp3
+Time: 134
+Artist: Owl City
+AlbumArtist: Owl City
+Title: Metero Shower
+Album: Ocean Eyes
+Track: 7/12
+Date: 2009-07-28
+Genre: Electronic
+Performer: Hitat.neT || DarkHeart
+Disc: 1/1
+mtime: 1335189654
+song_end
+song_begin: Of mice and men - Second And Sebring.mp3
+Time: 229
+Artist: Of mice and men
+AlbumArtist: Of Mice & Men
+Title: Second And Sebring
+Album: Of Mice & Men
+Track: 1
+Date: 2010
+Genre: Metal
+Composer: Of Mice and Men
+mtime: 1357620714
+song_end
+song_begin: Of Mice & Men - Seven Thousand Miles For What.mp3
+Time: 181
+Artist: Of Mice and Men
+AlbumArtist: Unknown
+Title: Seven thousand miles for what
+Album: Of Mice and Men
+Track: 9
+Date: 2010
+Genre: Other
+Composer: Of Mice and Men
+mtime: 1357620682
+song_end
+song_begin: Alessana - Ambrosia.mp3
+Time: 185
+Artist: Alessana
+AlbumArtist: Alesana
+Title: Ambrosia
+Album: On Frail Wings of Vanity and W
+Track: 1
+Date: 2007
+Genre: Alternative
+Composer: Alesana/Dennis Lee/Shawn Milke
+mtime: 1335190156
+song_end
+song_begin: Alesana- The Last Three Letters.mp3
+Time: 213
+Artist: Alesana
+Title: The Last Three Letters
+Album: On Frail Wings of Vanity and Wax
+Track: 6
+Date: 2006
+Genre: Rock
+mtime: 1335190152
+song_end
+song_begin: alesana - tilting the hourglass.mp3
+Time: 228
+Artist: Alesana
+AlbumArtist: Alesana
+Title: Tilting the Hourglass
+Album: On Frail Wings of Vanity and Wax
+Track: 8
+Date: 2006
+Genre: Post-Hardcore
+Composer: Alesana/Dennis Lee/Shawn Milke
+Disc: 1/1
+mtime: 1335190152
+song_end
+song_begin: We_are!_(straw_hat_version).mp3
+Time: 258
+Artist: Straw Hat Pirates
+Title: We Are! (Straw Hat Pirates Version)
+Album: One Piece OST
+Track: 20
+Genre: Anime
+mtime: 1346905830
+song_end
+song_begin: fro rida- whistle.mp3
+Time: 225
+Artist: Flo Rida
+AlbumArtist: Flo Rida
+Title: Whistle
+Album: Only One Rida (Part.2)
+Date: 2012
+Genre: R&B
+mtime: 1342143548
+song_end
+song_begin: Story Of The Year - Until The Day I Die.mp3
+Time: 236
+Artist: Story Of The Year
+AlbumArtist: Story of the Year
+Title: Until The Day I Die
+Album: Page Avenue
+Track: 2
+Date: 2003
+Genre: Punk
+Composer: Story of the Year
+mtime: 1342747464
+song_end
+song_begin: T[2].I. feat Rihana - Live Your Life.mp3
+Time: 242
+Artist: @££&f
+AlbumArtist: T.I. Ft. Rihanna
+Title: T.I.feat. Rihanna - Live Your Life
+Album: Paper Trail
+Track: 1
+Date: 2008
+Genre: Hip-Hop
+Composer: HotNewHipHop.com
+mtime: 1342746246
+song_end
+song_begin: pay feat vanya & irang - pas kena hatiku.mp3
+Time: 218
+Artist: Pay Feat Vanya & Irang
+Title: Pay feat Vanya & Irang - Pas Kena Hatiku
+Album: Pay feat Vanya & Irang - Pas Kena Hatiku
+Date: 2011
+Genre: Other
+mtime: 1342584948
+song_end
+song_begin: sheila on 7 - pejantan tangguh.mp3
+Time: 279
+Artist: Sheila on 7
+Title: Pejantan tangguh - lagubagus.com
+Album: Pejantan Tangguh
+Track: 01
+Date: 2004
+mtime: 1346900342
+song_end
+song_begin: Black Veil Brides - Perfect Weapon.mp3
+Time: 246
+Artist: Black Veil Brides
+Title: Perfect Weapon
+Album: Perfect Weapon
+Track: 1
+Date: 2010
+Genre: Rock
+mtime: 1346125326
+song_end
+song_begin: Phil Collins - Another Day in Paradise.mp3
+Time: 323
+Artist: Phil Collins
+Title: Another Day in Paradise.mp3
+Album: Phil Collins ...Hits
+mtime: 1291197390
+song_end
+song_begin: 01 - Pieces.mp3
+Time: 218
+Artist: AiRI
+Title: Pieces
+Album: Pieces
+Track: 01
+Date: 2011
+Genre: Anime
+mtime: 1373679061
+song_end
+song_begin: the devil wears prada - reptar king of the ozone.mp3
+Time: 190
+Artist: The Devil Wears Prada
+Title: Reptar, King of the Ozone
+Album: Plagues
+Track: 8/10
+Date: 2007-08-21
+Genre: Metalcore
+mtime: 1349042360
+song_end
+song_begin: The Devil Wears Prada - Hey John, What's Your Name Again.mp3
+Time: 226
+Artist: The Devil Wears Prada
+Title: Hey John, What's Your Name Aga
+Album: Plagues (Re-Release)
+Track: 4
+Date: 2007
+Genre: Metal
+mtime: 1335190186
+song_end
+song_begin: international love.mp3
+Time: 227
+Artist: Pitbull
+AlbumArtist: Pitbull
+Title: International Love (Ft. Chris Brown)
+Album: Planet Pit
+Track: 8
+Date: 2011
+Genre: Electro Hop
+Composer: Armando C. Perez, Carsten Shack, Peter Biker, Sean Hurley, Claude Kelly
+mtime: 1331548012
+song_end
+song_begin: Lady Gaga - Poker Face.mp3
+Time: 237
+Artist: Lady GaGa
+AlbumArtist: Lady GaGa
+Title: Poker Face
+Album: Poker Face - Single
+Track: 1/1
+Date: 2008
+Genre: Pop
+Composer: Lady GaGa & Red One
+Disc: 1/1
+mtime: 1342743696
+song_end
+song_begin: Of Mice and Men - Blame It.mp3
+Time: 238
+Artist: Of Mice and Men
+Title: Blame It
+Album: Pop Goes Punk
+Genre: Screamo
+mtime: 1357620750
+song_end
+song_begin: Panic At The Disco - Nine In The Afternoon.mp3
+Time: 187
+Artist: Panic! At The Disco
+AlbumArtist: Panic! at the Disco
+Title: Nine in The Afternoon
+Album: Pretty. OOD.
+Date: 2008
+Genre: Alternative
+mtime: 1331548550
+song_end
+song_begin: Attack Attack! - I Kissed A Girl.mp3
+Time: 181
+Artist: Attack Attack!
+AlbumArtist: Various Artists
+Title: I Kissed a Girl
+Album: Punk Goes Pop 2
+Track: 1/1
+Date: 2009
+Genre: Other
+mtime: 1335190160
+song_end
+song_begin: Pierce the Veil - Just The Way You Are.mp3
+Time: 224
+Artist: Pierce the Veil
+Title: Just The Way You Are
+Album: Punk Goes Pop 4
+Track: 4/6
+mtime: 1338644414
+song_end
+song_begin: 14 Attack Attack! - I Kissed A Girl.mp3
+Time: 181
+Artist: Attack Attack!
+AlbumArtist: Various Artists
+Title: I Kissed A Girl
+Album: Punk Goes Pop Vol. 2
+Track: 14/14
+Date: 2009
+Genre: Rock
+Disc: 1/1
+mtime: 1347559035
+song_end
+song_begin: M.Bob marley~no woman no cry.mp3
+Time: 262
+Artist: Bob Marley
+Title: No Woman No Cry
+Album: Rastaman From Jamaica
+mtime: 1341760956
+song_end
+song_begin: Usher - Hey Daddy.mp3
+Time: 224
+Artist: Usher
+Title: Hey Daddy (Daddy's Home)
+Album: Raymond V Raymond
+Track: 2
+Date: 2010
+Genre: Other
+Performer: Mixlogy
+mtime: 1312279180
+song_end
+song_begin: U$her_feat._Will.i.am_-_OMG.mp3
+Time: 268
+Artist: Usher feat. Will.i.am
+Title: OMG
+Album: Raymond v. Raymond
+Track: 6
+Date: 2010
+Genre: Other
+Composer: 茿
+mtime: 1314151696
+song_end
+song_begin: to the stage.mp3
+Time: 211
+Artist: Asking Alexandria
+Title: To The Stage
+Album: Reckless And Relentless
+Track: 5/12
+Date: 2011
+Genre: Post Hardcore, Electro, Metalcore
+Disc: 1/1
+mtime: 1327094432
+song_end
+song_begin: Cold Wind Blows-eminem.mp3
+Time: 304
+Artist: Eminem
+Title: Cold Wind Blows
+Album: Recovery
+Genre: Other
+mtime: 1339308596
+song_end
+song_begin: 01 - Resuscitated Hope.mp3
+Time: 297
+Artist: Komine Lisa
+Title: Resuscitated Hope
+Album: Resuscitated Hope
+Track: 1
+Date: 2011
+Genre: Anime
+Genre: Anime
+mtime: 1342858352
+song_end
+song_begin: 02 - unity.mp3
+Time: 288
+Artist: Komine Lisa
+Title: unity
+Album: Resuscitated Hope
+Track: 2
+Date: 2011
+Genre: Anime
+Genre: Anime
+mtime: 1342859134
+song_end
+song_begin: Paramour - Misery Business.mp3
+Time: 212
+Artist: Paramour
+AlbumArtist: Paramore
+Title: Misery Business
+Album: Riot!
+Track: 4
+Date: 2007
+Genre: Rock/Pop
+Composer: Hayley Williams/Josh Farro
+mtime: 1331548632
+song_end
+song_begin: Papa Roach - ...To Be Loved.mp3
+Time: 188
+Artist: Papa Roach
+Title: To Be Loved
+Album: Roach
+Track: 15
+Date: 2010
+Genre: Rock & Roll
+mtime: 1347201840
+song_end
+song_begin: Taio Cruz Ft. Ludacris - Break Your Heart.mp3
+Time: 187
+Artist: Taio Cruz
+Title: Break Your Heart Ft. Ludacris
+Album: Rokstarr
+Track: 1
+Date: 2010
+mtime: 1335688678
+song_end
+song_begin: sheila on 7 - pria kesepian.mp3
+Time: 242
+Artist: Sheila on 7
+AlbumArtist: Sheila on 7
+Title: Pria Kesepian
+Album: S07 Hits, Vol. 2
+Track: 4
+Date: 2007
+Genre: Rock
+Composer: Eross
+mtime: 1346900346
+song_end
+song_begin: Saosin-Voices.mp3
+Time: 218
+Artist: SAOSIN
+Album: SELF TITLED
+Track: 4
+Date: 2006
+Genre: EMO SCREAMO
+mtime: 1335189676
+song_end
+song_begin: Di Telan Bumi.mp3
+Time: 261
+Artist: ANDRA & THE BACKBONE
+Album: SELF TITLED
+Track: 8
+Date: 2007
+Genre: Pop
+mtime: 1340466500
+song_end
+song_begin: saosin - follow and feel.mp3
+Time: 199
+Artist: Saosin
+Title: Follow And Feel
+Album: Saosin
+Track: 06
+Date: 2006
+Genre: Rock
+mtime: 1335189682
+song_end
+song_begin: Saosin - collapse.mp3
+Time: 195
+Artist: Saosin
+AlbumArtist: Saosin
+Title: Collapse
+Album: Saosin
+Track: 9
+Date: 2006
+Genre: Rock
+mtime: 1335189656
+song_end
+song_begin: Saosin - Bury your head.mp3
+Time: 215
+Artist: Saosin
+AlbumArtist: Saosin
+Title: Bury your head
+Album: Saosin
+Track: 11
+Date: 2006
+Genre: Screamo
+mtime: 1335189712
+song_end
+song_begin: saosin - new angel.mp3
+Time: 176
+Artist: Saosin
+Title: New Angel
+Album: Saosin EP
+Track: 3/5
+Date: 2006-08-02
+Genre: Post-Hardcore
+mtime: 1335189686
+song_end
+song_begin: Armada+Band+-+Apa+Kabar+Sayang.mp3
+Time: 268
+Artist: Armada Band
+AlbumArtist: Www.lagubagus.com
+Title: Apa Kabar Sayang
+Album: Satu Hati Sejuta Cinta
+Track: 05
+Date: 2012
+Genre: Pop
+Composer: Www.lagubagus.com
+mtime: 1347212873
+song_end
+song_begin: Dream Theater -The spirit carries on.mp3
+Time: 398
+Artist: DREAM THEATER
+Title: The spirit carries on
+Album: Scenes from a Memory
+Track: 11
+Date: 1999
+Genre: Symphonic Rock
+Genre: Symphonic Rock
+mtime: 1339308990
+song_end
+song_begin: 05 - If You Ever Come Back.mp3
+Time: 242
+Artist: The Script
+AlbumArtist: The Script
+Title: If you ever come back
+Album: Science & Faith
+Track: 05
+Date: 2010
+Genre: Pop/Rock
+mtime: 1344841546
+song_end
+song_begin: 03 Nothing.mp3
+Time: 272
+Artist: The Script
+AlbumArtist: The Script
+Title: Nothing
+Album: Science And Faith
+Track: 3
+Date: 2010
+Genre: Pop
+mtime: 1344841118
+song_end
+song_begin: Simple Plan - Don't Wanna Think About You.mp3
+Time: 206
+Artist: Simple Plan
+AlbumArtist: Simple Plan
+Title: Don't Wanna Think About You
+Album: Scooby Doo 2: Monsters Unleashed
+Track: 1
+Date: 2004
+Genre: Punk
+Disc: 1/1
+mtime: 1331547576
+song_end
+song_begin: Andra & The Backbone - Hitamku.mp3
+Time: 267
+Artist: Andra & The Backbone
+AlbumArtist: IndoMp3z
+Title: Hitamku
+Album: Season 2
+Track: 05
+Date: 2008
+Genre: Rock
+Composer: IndoMp3z
+Performer: IndoMp3z
+Performer: IndoMp3z
+mtime: 1342495170
+song_end
+song_begin: Secondhand Serenade_It's Not Over.mp3
+Time: 296
+Artist: Secondhand Serenade
+AlbumArtist: Secondhand Serenade
+Title: It's Not Over
+Album: Secondhand Serenade
+Genre: Rock/Punk/Alt.
+mtime: 1339308842
+song_end
+song_begin: Avenged7Fold - After life.mp3
+Time: 352
+Artist: AVENGED SEVENFOLD
+Title: AFTERLIFE
+Album: Self Titled
+mtime: 1319252870
+song_end
+song_begin: avenged_sevenfold - afterlife.mp3
+Time: 352
+Artist: Avenged Sevenfold
+Title: 04 Afterlife
+Album: Self Titled
+Track: 4
+Date: 2008
+Genre: Alternative
+mtime: 1305417716
+song_end
+song_begin: Avenged Sevenfold - Gunslinger .mp3
+Time: 252
+Artist: Avenged Sevenfold
+Title: Gunslinger
+Album: Self Titled
+Track: 5
+Date: 2007
+Genre: Other
+mtime: 1317361574
+song_end
+song_begin: killing me inside - biarlah.mp3
+Time: 256
+Artist: Killing Me Inside
+Title: Biarlah
+Album: Self Titled
+Track: 08
+Date: 2010
+Genre: Modern Rock
+mtime: 1346724948
+song_end
+song_begin: Avenged Sevenfold - A Little Piece Of Heaven .mp3
+Time: 482
+Artist: Avenged Sevenfold
+Title: A Little Piece Of Heaven
+Album: Self Titled
+Track: 9
+Date: 2007
+Genre: Other
+mtime: 1338644116
+song_end
+song_begin: Andra & The Backbone - Jalanmu Bukan Jalanku.mp3
+Time: 224
+Artist: Andra & The Backbone
+Title: Jalanmu Bukan Jalanku
+Album: Sempurna
+Date: 2009
+Genre: Rock
+Composer: Goess RM
+mtime: 1342495966
+song_end
+song_begin: black veil bride fallen angels.mp3
+Time: 240
+Artist: Black Veil Brides
+Title: Fallen Angels
+Album: Set The World On Fire
+Date: 2011
+Genre: Other
+mtime: 1345859946
+song_end
+song_begin: Black Veil Brides - The Legacy.mp3
+Time: 280
+Artist: Black Veil Brides
+AlbumArtist: Black Veil Brides
+Title: The Legacy
+Album: Set the World on Fire
+Track: 08
+Date: 2011
+Genre: Post-Hardcore
+Composer: Black Veil Brides
+Disc: 1
+mtime: 1345860082
+song_end
+song_begin: Judika - Aku Yang Tersakiti.mp3
+Time: 242
+Artist: Judika
+Title: Aku Yang Tersakiti - berbagi-mp3.blogspot.com
+Album: Setengah Mati Merindu
+Date: 2010
+mtime: 1312427940
+song_end
+song_begin: Black Veil Brides - Knives and Pens.mp3
+Time: 257
+Artist: Black Veil Brides
+Title: Knives and Pens
+Album: Sex and Hollywood (Demo) - EP
+Genre: Punk
+mtime: 1346125372
+song_end
+song_begin: Sheila On 7 - Dan.mp3
+Time: 289
+Artist: Sheila On 7
+AlbumArtist: Amalsyarif As
+Title: Dan
+Album: Sheila On 7
+Date: 1999
+Genre: Pop
+mtime: 1346899748
+song_end
+song_begin: counting crows - accidentally in love.mp3
+Time: 193
+Artist: Counting Crows
+Title: Accidentally In Love
+Album: Shrek 2
+Track: 03
+mtime: 1342141314
+song_end
+song_begin: Drawing Days.mp3
+Time: 265
+Artist: Splay
+AlbumArtist: Splay
+Title: Drawing Days
+Album: Single
+Track: 1
+Genre: World
+mtime: 1346415752
+song_end
+song_begin: gundam 00 ss2 ed1-Prototype - Chiaki Ishikawa.mp3
+Time: 343
+Artist: Chiaki Ishikawa
+Title: Prototype
+Album: Single
+Track: 1
+mtime: 1230457794
+song_end
+song_begin: Gundam 00 - Ash Like Snow.mp3
+Time: 272
+Artist: The Brilliant Green
+Title: Ash Like Snow (Karaoke)
+Album: Single
+Track: 3
+mtime: 1345271164
+song_end
+song_begin: The Devil Wears Prada - Assistant To The Regional Manager.mp3
+Time: 217
+Artist: The Devil Wears Prada
+Title: Assistant To The Regional Manager
+Album: Single
+Track: 3
+Date: 2009
+Genre: Metalcore
+mtime: 1335190184
+song_end
+song_begin: The Devil Wears Prada - Still Fly.mp3
+Time: 295
+Artist: The Devil Wears Prada
+Title: Still Fly
+Album: Single
+Track: 05
+Date: 2009
+Genre: Metalcore
+mtime: 1367423038
+song_end
+song_begin: Trouble Is A Friend-Lenka.mp3
+Time: 216
+Artist: Lenka
+AlbumArtist: Single Hits 55
+Title: Trouble Is A Friend
+Album: Single Hits 55
+Date: Sing
+Genre: Single Hits 55
+Composer: Single Hits 55
+mtime: 1342687004
+song_end
+song_begin: Citra Scholastika - Pasti Bisa.mp3
+Time: 202
+Artist: Citra Scholastika
+Title: Pasti Bisa
+Album: Single [Hits Records]
+Track: 2
+Date: 2012
+Genre: Pop
+mtime: 1342139310
+song_end
+song_begin: 01 so good.mp3
+Time: 213
+Artist: B.o.B
+AlbumArtist: B.o.B
+Title: So Good
+Album: So Good - Single
+Track: 1/1
+Date: 2012
+Genre: Hip Hop/Rap
+Disc: 1/1
+mtime: 1346905658
+song_end
+song_begin: All Time Low - Dear Maria, Count Me In.mp3
+Time: 183
+Artist: All Time Low
+Title: Dear Maria Count Me In
+Album: So Wrong, It's Right
+Track: 1/10
+Date: 2007
+Genre: Alternative & Punk
+Disc: 1/1
+mtime: 1311337866
+song_end
+song_begin: attack_attack-stick_stickly.mp3
+Time: 203
+Artist: Attack Attack!
+Title: Stick Stickly
+Album: Someday Came Suddenly
+Track: 2/12
+Date: 2008-11-11
+Genre: Rock
+mtime: 1335190190
+song_end
+song_begin: Attack Attack - Party Foul.mp3
+Time: 156
+Artist: Attack Attack!
+Title: Party Foul
+Album: Someday Came Suddenly
+Track: 5/12
+Date: 2008-11-11
+Genre: Hardcore
+mtime: 1335190158
+song_end
+song_begin: attack attack - the peoples elbow.mp3
+Time: 157
+Artist: Attack Attack!
+Title: The People's Elbow
+Album: Someday Came Suddenly
+Track: 8/12
+Date: 2008-11-11
+Genre: Rock
+mtime: 1335190144
+song_end
+song_begin: Attack Attack! - Catfish Soup.mp3
+Time: 178
+Artist: Attack Attack!
+Title: Catfish Soup
+Album: Someday Came Suddenly
+Track: 11/12
+Date: 2008-11-11
+Genre: Rock
+mtime: 1335190160
+song_end
+song_begin: attack_attack-sticky stickly.mp3
+Time: 245
+Artist: Attack Attack!
+Title: Hot Grills and High Tops  Stick Stickly
+Album: Someday Come Suddenly
+Track: 2
+Genre: Punk Goes Pop
+mtime: 1347558693
+song_end
+song_begin: Soulja Boy feat Sammie - Kiss Me Thru the Phone.mp3
+Time: 193
+Artist: Soulja Boy feat Sammie
+AlbumArtist: Soulja Boy
+Title: Kiss Me Thru the Phone
+Album: Soulja Boy Tell'em
+Genre: Other
+Composer: BMF
+mtime: 1331547626
+song_end
+song_begin: The Devil Wears Prada - Spongebob Grindpants.mp3
+Time: 55
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Spongebob Grindpants
+Album: Spongebob Grindpants - Single
+Track: 01
+Date: 2007
+Genre: Hardcore / Grindcore
+mtime: 1335190186
+song_end
+song_begin: red rot chili perpers - snow.mp3
+Time: 335
+Artist: Red Hot Chili Peppers
+Title: Snow ((Hey Oh))
+Album: Stadium Arcadium
+Track: 2
+Date: 2006
+Genre: Rock
+mtime: 1341772672
+song_end
+song_begin: Asking Alexandria - final episode.mp3
+Time: 242
+Artist: Asking Alexandria
+Title: Final Episode (Let's Change The Channel)
+Album: Stand Up And Scream
+Track: 2/13
+Date: 2009-09-15
+Genre: Hardcore
+mtime: 1335056222
+song_end
+song_begin: asking - final episode.mp3
+Time: 242
+Artist: Asking Alexandria
+Title: Final Episode (Let's Change The Channel)
+Album: Stand Up And Scream
+Track: 2/13
+Date: 2009-09-15
+Genre: Hardcore
+mtime: 1335190040
+song_end
+song_begin: A Single Moment of Sincerity KCBlitz Remix.mp3
+Time: 273
+Artist: Asking Alexandria
+Title: A Single Moment of Sincerity [KC Blitz Remix]
+Album: Stepped Up And Scratched
+Track: 01
+Date: 2011
+Genre: Rock
+mtime: 1347488484
+song_end
+song_begin: Simple Plan - How Could This Happen to Me.mp3
+Time: 242
+Artist: Simple Plan
+Title: How Could This Happen to Me
+Album: Still Not Getting Any
+Genre: Blues
+mtime: 1341471642
+song_end
+song_begin: Kelly Clarkson - stronger.mp3
+Time: 222
+Artist: Kelly Clarkson
+AlbumArtist: Kelly Clarkson
+Title: What Doesn't Kill You (Stronger)
+Album: Stronger
+Track: 02
+Date: 2011
+Genre: Pop-Rock
+Composer: Ali Tamposi/David Gamson/Greg Kurstin/Jörgen Elofsson
+mtime: 1342143684
+song_end
+song_begin: Bring Me The Horizon- Chelsea Smile.mp3
+Time: 313
+Artist: Bring Me The Horizon
+AlbumArtist: Bring Me the Horizon
+Title: Chelsea Smile
+Album: Suicide Season
+Track: 2
+Date: 2008
+Genre: Metalcore
+Composer: Bring Me the Horizon/Oliver Sykes
+mtime: 1335190166
+song_end
+song_begin: Bring Me The Horizon - Diamonds Aren't Forever .mp3
+Time: 228
+Artist: Bring Me The Horizon
+AlbumArtist: Bring Me The Horizon
+Title: Diamonds Aren't Forever
+Album: Suicide Season
+Track: 7
+Date: 2008
+Genre: Deathcore
+Disc: 1/1
+mtime: 1335190164
+song_end
+song_begin: My_Chemical_Romance_-_Helena.mp3
+Time: 203
+Artist: MY CHEMICAL ROMANCE
+Album: THREE CHEERS FOR SWEET REVENGE
+Track: 1
+Date: 2005
+Genre: EMO
+mtime: 1339308424
+song_end
+song_begin: Armada  - Kau Harus Terima .mp3
+Time: 272
+Artist: Armada  - lagubagus.com
+AlbumArtist: lagubagus.com
+Title: Kau Harus Terima  - lagubagus.com
+Album: TOP 100 Jan-09 - lagubagus.com
+Date: 2009
+Genre: pop
+mtime: 1327654980
+song_end
+song_begin: Kerispatih - Demi Cinta.mp3
+Time: 288
+Artist: Kerispatih
+Title: Demi Cinta
+Album: Tak Lekang Oleh Waktu
+Track: 5
+Date: 2008
+Genre: Pop
+Genre: Pop
+Composer: http://www.misshacker.com
+mtime: 1342442892
+song_end
+song_begin: Abandon All Ships - Take One Last Breath.mp3
+Time: 213
+Artist: Abandon All Ships
+AlbumArtist: Creed
+Title: Take One Last Breath
+Album: Take One Last Breath (Single)
+Track: 1
+Date: 2010
+Genre: Electronic/ Screamo
+Composer: Tremonti, Stapp
+mtime: 1340393330
+song_end
+song_begin: abandon all ships - take one last breath.mp3
+Time: 219
+Artist: Abandon All Ships
+AlbumArtist: Abandon All Ships
+Title: Take One Last Breath
+Album: Take One Last Breath - Single
+Track: 1/1
+Date: 2010
+Genre: Rock
+Disc: 1/1
+mtime: 1333493873
+song_end
+song_begin: Rihanna - Where Have You Been.mp3
+Time: 243
+Artist: Rihanna
+AlbumArtist: Rihanna
+Title: Where Have You Been
+Album: Talk That Talk
+Track: 02/12
+Date: 2011
+Genre: Pop
+Disc: 1/1
+mtime: 1342143408
+song_end
+song_begin: katty perry feat.snoop dogg - california gurls.mp3
+Time: 236
+Artist: Katy Perry
+AlbumArtist: Katy Perry
+Title: California Gurls (feat. Snoop Dogg)
+Album: Teenage Dream
+Track: 3/14
+Date: 2010
+Genre: Pop
+Composer: Benjamin Levin/Bonnie McKee/Calvin Broadus/Katy Perry/Lukasz "Dr. Luke" Gottwald/Max Martin
+mtime: 1342143780
+song_end
+song_begin: Mirror Feat. Bruno Mars.mp3
+Time: 228
+Artist: Lil Wayne
+AlbumArtist: Lil Wayne
+Title: Mirror (Feat. Bruno Mars) (Bonus Track)
+Album: Tha Carter IV (Deluxe Edition)
+Track: 17/18
+Date: 2011-08-29
+Genre: Rap
+mtime: 1342745910
+song_end
+song_begin: Drake - Find Your Love.mp3
+Time: 209
+Artist: Drake
+Title: Find Your Love (Produced by Kanye West)
+Album: Thank Me Later
+Date: 2010
+mtime: 1335190026
+song_end
+song_begin: Maher Zein.Baraka Allahu Lakuma.mp3
+Time: 270
+Artist: Maher Zain | Shbokra.com
+AlbumArtist: Maher Zain | Shbokra.Com
+Title: Baraka Allahu Lakuma | Shbokra.com
+Album: Thank You Allah
+Track: 02
+Date: 2009
+Genre: شباب بكرة | Shbokra.com
+Composer: www.shbokra.com
+Performer: Shbokra.Com | Shbokra.Com
+Performer: Shbokra.Com
+mtime: 1313310828
+song_end
+song_begin: Maher Zein.Ya Nabi Salam Alayka.mp3
+Time: 299
+Artist: Maher Zain | Shbokra.Com
+AlbumArtist: Maher Zain | Shbokra.Com
+Title: Ya Nabi Salam Alayka -A- | Shbokra.Com
+Album: Thank You Allah
+Track: 04
+Date: 2009
+Genre: شباب بكرة | Shbokra.Com
+Composer: www.shbokra.com
+Performer: Shbokra.Com
+Performer: Shbokra.Com
+mtime: 1313310870
+song_end
+song_begin: Maher Zein.Thank you allah.mp3
+Time: 328
+Artist: Maher Zain | Shbokra.Com
+AlbumArtist: Maher Zain | Shbokra.Com
+Title: Thank you allah | Shbokra.Com
+Album: Thank You Allah
+Track: 08
+Date: 2009
+Genre: شباب بكرة | Shbokra.Com
+Composer: www.shbokra.com
+Performer: Shbokra.Com
+Performer: Shbokra.Com
+mtime: 1313316362
+song_end
+song_begin: My Chemical Romance - Welcome To The Black Para.mp3
+Time: 309
+Artist: My Chemical Romance
+Title: Welcome To The Black Parade
+Album: The Black Parade
+Date: 2006
+Genre: Other
+mtime: 1339309056
+song_end
+song_begin: my chemical romance - Cancer.mp3
+Time: 143
+Artist: My Chemical Romance
+Title: Cancer
+Album: The Black Parade
+Track: 8/14
+Date: 2006-10-24
+Genre: Rock
+Genre: Rock
+mtime: 1339308514
+song_end
+song_begin: Fergie - Big Girls Don't Cry.mp3
+Time: 268
+Artist: Fergie
+Title: Big Girls Don't Cry
+Album: The Dutchess
+Track: 10
+Date: 2005-09-19
+Genre: Pop
+mtime: 1331548310
+song_end
+song_begin: Alesana - The Lover.mp3
+Time: 205
+Artist: Alesana
+AlbumArtist: Alesana
+Title: The Lover
+Album: The Emptiness
+Track: 9
+mtime: 1341470956
+song_end
+song_begin: Alesana - A Lunatic's Lament.mp3
+Time: 245
+Artist: Alesana
+AlbumArtist: Alesana
+Title: A Lunatic's Lament
+Album: The Emptiness
+Track: 3/11
+Date: 2010
+Genre: Alternative
+Disc: 1/1
+mtime: 1335190148
+song_end
+song_begin: Alesana - The Thespian.mp3
+Time: 282
+Artist: Alesana
+AlbumArtist: Alesana
+Title: The Thespian
+Album: The Emptiness
+Track: 6/11
+Date: 2010
+Genre: Alternative
+Disc: 1/1
+mtime: 1335190150
+song_end
+song_begin: 01 O.G. Loko.mp3
+Time: 229
+Artist: Of Mice & Men
+AlbumArtist: Of Mice & Men
+Title: O.G. Loko
+Album: The Flood
+Track: 1/11
+Date: 2011-07-30T21:12
+Genre: Post-Hardcore
+mtime: 1357620598
+song_end
+song_begin: Of Mice And Men - My Understandings.mp3
+Time: 154
+Artist: Of Mice And Men
+Title: My Understandings
+Album: The Flood
+Track: 5/11
+Date: 2011
+Genre: Punk
+Disc: 1/1
+mtime: 1357620734
+song_end
+song_begin: Of Mice & Men - The Flood.mp3
+Time: 191
+Artist: Of Mice & Men
+Title: The Flood'
+Album: The Flood (Deluxe Reissue)
+Track: 3
+Date: 2012
+Genre: Hardcore
+mtime: 1357620612
+song_end
+song_begin: Disney - The Lion King 2 - Love Will Find A Way.mp3
+Time: 180
+Artist: Disney
+Title: Love Will Find A Way
+Album: The Lion King 2 "Simba's Pride"
+Track: 06
+Genre: General Soundtrack
+mtime: 1342141934
+song_end
+song_begin: Lights - Saviour.mp3
+Time: 210
+Artist: Lights
+Title: Saviour
+Album: The Listening
+Genre: (52)
+mtime: 1344841516
+song_end
+song_begin: Papa Roach-To Be Loved.mp3
+Time: 351
+Artist: Papa Roach
+AlbumArtist: Papa Roach
+Title: To Be Loved
+Album: The Paramour Sessions
+Track: 1
+Date: 2006
+Genre: Rock
+Composer: J. Shaddix/Papa Roach/T. Esperance
+mtime: 1341793464
+song_end
+song_begin: jamie cullum- wheels.mp3
+Time: 223
+Artist: Jamie Cullum
+Title: Wheels
+Album: The Pursuit
+Track: 3
+Date: 2009
+mtime: 1335687480
+song_end
+song_begin: Uprising.mp3
+Time: 306
+Artist: Muse
+AlbumArtist: Muse
+Title: Uprising
+Album: The Resistance
+Date: 2009
+Genre: Alt. Rock
+mtime: 1341792410
+song_end
+song_begin: Fort Minor- Where'd You Go.mp3
+Time: 234
+Artist: Fort Minor
+Album: The Rising Tied
+Track: 6
+Genre: Other
+mtime: 1331547950
+song_end
+song_begin: BEP- Time of my life.mp3
+Time: 308
+Artist: Black Eyed Peas
+AlbumArtist: Black Eyed Peas
+Title: Rádio 89 FM - As melhores músicas e as melhores promoções do rádio só na 89 FM.
+Album: The Time (The Dirty Bit) Single
+Track: 1
+Date: 2010
+Genre: Pop
+mtime: 1345555018
+song_end
+song_begin: sheila on 7 - sekali lagi.mp3
+Time: 305
+Artist: Sheila On 7
+AlbumArtist: Sheila On 7
+Title: Sekali Lagi
+Album: The Very Best Of (Jalan Terus)
+Track: 02
+Date: 2005
+Genre: Pop
+Composer: donnieblue.blogspot.com
+mtime: 1346899550
+song_end
+song_begin: bring me the horizon - It Never Ends.mp3
+Time: 276
+Artist: Bring Me The Horizon
+Title: It Never Ends
+Album: There Is A Hell Believe Me Ive Seen It. There Is A Heaven Lets Keep It A Secret
+Track: 3
+Date: 2010
+mtime: 1338644516
+song_end
+song_begin: 30 Seconds to Mars - Kings and.mp3
+Time: 300
+Artist: 30 Seconds to Mars
+AlbumArtist: 30 Seconds to Mars
+Title: Kings and Queens
+Album: This Is War
+Track: 3
+Date: 2009
+Genre: Pop
+Composer: Jared Leto
+Disc: Lançamentos Musicais LM
+mtime: 1311337664
+song_end
+song_begin: 30 Seconds to Mars - Closer to the Edge.mp3
+Time: 273
+Artist: 30 Seconds To Mars
+AlbumArtist: 30 Seconds To Mars
+Title: Closer to the Edge
+Album: This Is War
+Track: 7
+Date: 2009
+Genre: AlternRock
+Composer: Jared Leto
+mtime: 1311337474
+song_end
+song_begin: Escape The Fate - The Flood.mp3
+Time: 213
+Artist: Escape the Fate
+Title: The Flood
+Album: This War Is Ours
+Track: 5
+Date: 2008
+Genre: Other
+mtime: 1338646222
+song_end
+song_begin: escape the fate - this war is ours(guillotine 11).mp3
+Time: 267
+Artist: Escape The Fate
+AlbumArtist: Escape The Fate
+Title: This War Is Ours (the Guillotine Ii)
+Album: This War Is Ours
+Track: 8
+Date: 2008
+Genre: Post-hardcore
+Composer: Escape the Fate/John Feldmann
+mtime: 1341811790
+song_end
+song_begin: three days grace  I Hate Everything About You-Three Days Grace.mp3
+Time: 235
+Artist: Three Days Grace
+AlbumArtist: I Hate Everything About You
+Title: I Hate Everything About You
+Album: Three Days Grace
+Track: 3
+Date: 2003
+Genre: Rock
+Composer: Gavin "Golden" Brown/Three Days Grace
+mtime: 1346132834
+song_end
+song_begin: The Cranberries - When Youre Gone.mp3
+Time: 297
+Artist: The Cranberries
+Title: When You're Gone/Album Version
+Album: To the Faithful Departed: The Complete Sessions 1996-1997/For Individual Sale
+Track: 0
+Date: 2002
+Genre: Alternative
+mtime: 1341850454
+song_end
+song_begin: System Of a Down - Aerials.mp3
+Time: 217
+Artist: System Of A Down
+Album: Toxicity
+Genre: Other
+mtime: 1335190172
+song_end
+song_begin: Saosin - 7 Years.mp3
+Time: 193
+Artist: Saosin
+Title: Seven Years
+Album: Translating The Name
+Track: 10
+Date: 2005
+Genre: Emo
+mtime: 1335189660
+song_end
+song_begin: saosin- lost symphonies.mp3
+Time: 184
+Artist: Saosin
+AlbumArtist: Saosin
+Title: Lost Symphonies
+Album: Translating the Name
+Track: 4
+Date: 2003
+Genre: Punk
+mtime: 1335189688
+song_end
+song_begin: Paramor - Decode.mp3
+Time: 262
+Artist: Paramore
+AlbumArtist: Paramore
+Title: Decode
+Album: Twilight
+Track: 2/12
+Date: 2008-00-00
+Genre: Soundtrack
+Composer: www.StudioHits.us
+mtime: 1331548606
+song_end
+song_begin: Demi Lovato - Give Your Heart A Break.mp3
+Time: 206
+Artist: Demi Lovato
+AlbumArtist: Demi Lovato
+Title: Give Your Heart A Break
+Album: Unbroken
+Track: 10
+Date: 2011
+Genre: Soundtrack
+mtime: 1342744886
+song_end
+song_begin: Skyscraper.mp3
+Time: 223
+Artist: Demi Lovato
+AlbumArtist: Demi Lovato
+Title: Skyscraper
+Album: Unbroken
+Track: 11
+Date: 2011
+Genre: R&B
+Composer: David Lee Roth/Steve Vai/Robbins
+mtime: 1342744708
+song_end
+song_begin: Forever (Travis Barker Remix) Feat. Kanye West,.mp3
+Time: 367
+Artist: Drake
+Title: Forever (Travis Barker Remix) Feat. Kayne West, Lil Wayne & Eminem
+Album: Unreleased
+Date: 2009
+Genre: Hip-Hop/Rap
+mtime: 1341485262
+song_end
+song_begin: Saosin - I can tell there was an accident here.mp3
+Time: 220
+Artist: Saosin
+Title: I can tell there was an accident here [Demo]
+Album: Unreleased
+Date: 2003
+Genre: Screamo
+mtime: 1335189684
+song_end
+song_begin: What Makes You Beautiful.mp3
+Time: 199
+Artist: One Direction
+AlbumArtist: One Direction
+Title: What Makes You Beautiful
+Album: Up All Night
+Track: 1/13
+Date: 2011
+Genre: Pop
+Performer: WWW.iM1MUSIC.NET
+Performer: WWW.iM1MUSIC.NET
+mtime: 1342143104
+song_end
+song_begin: Panic! At The Disco - Let's Kill Tonight.mp3
+Time: 192
+Artist: Panic! at the Disco
+AlbumArtist: Panic! at the Disco
+Title: Let's Kill Tonight
+Album: Vices & Virtues (WEB)
+Track: 2
+Date: 2011
+Genre: AlternRock
+mtime: 1317361524
+song_end
+song_begin: craig david - insomnia.mp3
+Time: 205
+Artist: Craig David
+Artist: Craig David
+AlbumArtist: WWW.iM1MUSIC.NET
+Title: Insomnia
+Title: Insomnia
+Album: WWW.iM1MUSIC.NET
+Album: WWW.iM1MUSIC.NET
+Date: 2008
+Genre: RnB
+Genre: RnB
+Composer: WWW.iM1MUSIC.NET
+Performer: WWW.iM1MUSIC.NET
+Performer: WWW.iM1MUSIC.NET
+mtime: 1299414178
+song_end
+song_begin: Avenged Sevenfold ~ Unholy Confessions.mp3
+Time: 284
+Artist: Avenged Sevenfold
+AlbumArtist: Avenged Sevenfold
+Title: Unholy Confessions
+Album: Waking The Fallen
+Track: 2
+Date: 2003
+Genre: Hardcore
+Composer: Avenged Sevenfold
+mtime: 1338644310
+song_end
+song_begin: asking-alexandria-Closure.mp3
+Time: 238
+Artist: Asking Alexandria
+Title: Closure
+Album: Warped Tour 2011 Compilation
+Track: 5/25
+Date: 2011-06-07
+Genre: Punk Rock
+Disc: 1/2
+mtime: 1316629694
+song_end
+song_begin: We Are The World 25 for Haiti.mp3
+Time: 418
+Artist: V.A.
+Title: We Are The World 25 for Haiti
+Album: We Are The World 25 for Haiti
+Track: 1
+Date: 2010
+Genre: Pop
+mtime: 1342506134
+song_end
+song_begin: glee-we are young.mp3
+Time: 250
+Artist: Fun
+Title: We Are Young (Feat. Janelle Monae)
+Album: We Are Young (Feat. Janelle Monae) - Single
+Date: 2011
+Genre: Other
+mtime: 1342683294
+song_end
+song_begin: Creed - One last breath.mp3
+Time: 238
+Artist: Creed
+AlbumArtist: Creed
+Title: One Last Breath
+Album: Weathered
+Track: 5
+Date: 2001
+Genre: Metal
+Composer: Mark Tremonti/Scott Stapp
+mtime: 1312258616
+song_end
+song_begin: Gives You Hell.mp3
+Time: 215
+Artist: The All-American Rejects
+Title: Gives You Hell
+Album: When The World Comes Down
+mtime: 1347663250
+song_end
+song_begin: Selena Gomez - Love You Like A Love Song.mp3
+Time: 189
+Artist: Selena Gomez
+AlbumArtist: Selena Gomez & the Scene
+Title: Love You Like A Love Song
+Album: When the Sun Goes Down
+Track: 1
+Genre: Other
+Composer: Adam Schmalholz/Antonina Armato/Tim James
+mtime: 1342694050
+song_end
+song_begin: Limp Bizkit - My Way.mp3
+Time: 276
+Artist: Limp Bizkit
+Title: My Way
+Album: Wired-Up
+Track: 1
+mtime: 1341770062
+song_end
+song_begin: The Devil Wears Prada - Big Wiggly Style.mp3
+Time: 253
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Big Wiggly Style
+Album: With Roots Above And Branches Below
+Track: 05
+Date: 2009
+Genre: Metalcore
+Disc: 0/0
+mtime: 1341847288
+song_end
+song_begin: The Devil Wears Prada - Danger Wildman.mp3
+Time: 242
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Danger: Wildman
+Album: With Roots Above And Branches Below
+Track: 06
+Date: 2009
+Genre: Metalcore
+Disc: 0/0
+mtime: 1335190180
+song_end
+song_begin: The Devil wears Prada - Louder Than Thunder.mp3
+Time: 158
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Louder Than Thunder
+Album: With Roots Above And Branches Below
+Track: 10
+Date: 2009
+Genre: Metalcore
+Composer: Mike Hranica
+Disc: 0/0
+mtime: 1341846590
+song_end
+song_begin: The Devil Wears Prada - Lord Xenu.mp3
+Time: 206
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Lord Xenu
+Album: With Roots Above And Branches Below
+Track: 11
+Date: 2009
+Genre: Rock
+Disc: 0/0
+mtime: 1335190182
+song_end
+song_begin: Dez Moines.mp3
+Time: 244
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Dez Moines
+Album: With Roots Above And Branches Below
+Track: 4
+Date: 2009
+Genre: Metalcore
+Composer: Mike Hranica
+Disc: 1/1
+mtime: 1345879970
+song_end
+song_begin: Coldplay -  Fix You.mp3
+Time: 297
+Artist: Coldplay
+AlbumArtist: Coldplay
+Title: 04 Fix You
+Album: X & Y
+Track: 4
+mtime: 1338645772
+song_end
+song_begin: 01 Zone Alone.mp3
+Time: 285
+Artist: Ã©Ô­gÀï
+Title: ZONE//ALONE
+Album: ZONE//ALONE
+Track: 1
+Date: 2012
+mtime: 1346536310
+song_end
+song_begin: The Devil Wears Prada -  Escape.mp3
+Time: 275
+Artist: The Devil Wears Prada
+AlbumArtist: The Devil Wears Prada
+Title: Escape
+Album: Zombie EP
+Track: 1
+Date: 2010
+mtime: 1341846474
+song_end
+song_begin: My Chemical Romance - I Don't Love You.mp3
+Time: 239
+Artist: My Chemical Romance
+AlbumArtist: My Chemical Romance
+Title: I Don't Love You
+Album: [My Chemical Romance - The Black Parade - 2006.10]
+Track: 14
+Date: 2006-10-24
+Genre: Rock
+mtime: 1339308740
+song_end
+song_begin: System Of A Down - Kill Rock 'N Roll-ko.mp3
+Time: 148
+Artist: System Of A Down
+AlbumArtist: System of a Down
+Title: Kill Rock 'N Roll
+Album: [www.KOmp3.net] - [System Of A Down - Hypnotize - 2005.11]
+Track: 03
+Date: 2005
+Genre: Nu Metal
+mtime: 1335190174
+song_end
+song_begin: hangover - taio cruz.mp3
+Time: 245
+Artist: Taio Cruz
+AlbumArtist: Taio Cruz
+Title: Hangover
+Album: [싱글] Hangover
+Track: 1
+Date: 2011
+Genre: 팝
+Disc: 1
+mtime: 1328968206
+song_end
+song_begin: Limp Bizkit _ Take A Lock Around.mp3
+Time: 323
+Artist: Limp Bizkit
+AlbumArtist: Mission Impossible
+Title: Take A lock Around
+Album: arietux.blogspot.com
+Track: 03
+Date: 2010
+Genre: Pop
+Composer: Linux
+Performer: Arie
+Disc: DVD
+mtime: 1347366986
+song_end
+song_begin: Bless the Fall- Black Rose Dying.mp3
+Time: 258
+Artist: bless the fall
+AlbumArtist: bless the fall
+Album: bless the fall
+Track: 1
+Date: 2010
+mtime: 1346134520
+song_end
+song_begin: the cranberries just my imagination.mp3
+Time: 221
+Artist: the cranberries
+AlbumArtist: The Cranberries
+Title: just my imagination
+Album: bury the hatchet
+Track: 5
+Date: 1999
+Genre: Alternative
+Composer: Dolores O'Riordan
+mtime: 1341850910
+song_end
+song_begin: Simple Plan - Jet Lag.mp3
+Time: 205
+Artist: Simple Plan
+AlbumArtist: facebook.com/LeletoConnor
+Title: Jet Lag
+Album: facebook.com/LeletoConnor
+Track: 1
+Date: 2010
+mtime: 1331548658
+song_end
+song_begin: Airplanes Part. II_2.mp3
+Time: 311
+Artist: B.o.B Feat. Eminem & Hayley Williams
+Title: Airplanes Part. II
+Album: http://www.963RAP.com
+Track: 2
+Date: 2010
+Genre: RAP/HIPHOP
+Composer: www.MzHipHop.com
+Performer: www.MzHipHop.com
+Disc: www.MzHipHop.com
+mtime: 1346904862
+song_end
+song_begin: Chicago-You're The Inspiration.mp3
+Time: 222
+Album: http://www.rizalonline.co.cc
+mtime: 1339308538
+song_end
+song_begin: Insha Allah - Maher Zein Feat Fadli.mp3
+Time: 264
+Artist: Maher Zain feat Fadly Padi
+AlbumArtist: mp3loli.blogspot.com
+Title: Insha Allah
+Album: mp3loli.blogspot.com
+Date: 2011
+mtime: 1313310502
+song_end
+song_begin: pay ft. vanya & irang - bad boy & bad girl.mp3
+Time: 186
+Artist: Pay Ft. Vanya & Irang
+AlbumArtist: mp3loli.blogspot.com
+Title: Bad Boy & Bad Girl
+Album: mp3loli.blogspot.com
+Date: 2012
+Genre: Lokalicious
+mtime: 1342442566
+song_end
+song_begin: The Cranberries - I Can't Be With You.mp3
+Time: 187
+Artist: Cranberries
+Title: I Can't be With You
+Album: no need to argue
+Date: 1994
+Genre: Rock
+mtime: 1341796950
+song_end
+song_begin: sheila On 7 - Mudah Saja.mp3
+Time: 214
+Artist: Edmon
+Title: sheila On 7 - Mudah Saja
+Album: sheila On 7 - Mudah Saja
+Genre: Other
+mtime: 1346899842
+song_end
+song_begin: 01 - ada band- yang terbaik bagimu.mp3
+Time: 248
+Artist: artist
+Title: Yang Terbaik BAgimu
+Album: title
+Track: 1
+Genre: genre
+mtime: 1346727690
+song_end
+song_begin: 02 - Bring Me To Life.mp3
+Time: 238
+Artist: Evane Scence
+Title: Bring Me To Life
+Album: title
+Track: 2
+Genre: Other
+Genre: Other
+mtime: 1313418618
+song_end
+song_begin: peterpan-mimpi yang sempurna.mp3
+Time: 216
+Artist: artist
+Title: Mimpi Yang Sempurna
+Album: title
+Track: 11
+Genre: genre
+mtime: 1091082904
+song_end
+song_begin: Bruno Mars - Today My Life Begins.mp3
+Time: 204
+Artist: Bruno Mars
+Title: Today My Life Begins
+Album: www.NewJams.net
+Date: 2010
+Composer: www.NewJams.net
+mtime: 1255349064
+song_end
+song_begin: Taio_Cruz_Break Your Heart.mp3
+Time: 204
+Artist: Taio Cruz
+AlbumArtist: Taio Cruz
+Title: Break Your Heart (CDQ)
+Album: www.RnBXclusive.com
+Date: 2009
+Genre: R&B
+Composer: www.RnBXclusive.com
+Performer: www.RnBXclusive.com
+Disc: www.RnBXclusive.com
+mtime: 1335689832
+song_end
+song_begin: Jessie J ft. David Guetta - Laser Light.mp3
+Time: 212
+Artist: Jessie J ft. David Guetta
+AlbumArtist: www.ZonaUrbanaVIP.com
+Title: Laser Light [www.ZonaUrbanaVIP.com]
+Album: www.ZonaUrbanaVIP.com
+Date: 2011
+Genre: Other
+Composer: www.ZonaUrbanaVIP.com
+Performer: WWW.iM1MUSIC.NET
+Disc: www.ZonaUrbanaVIP.com
+mtime: 1331548462
+song_end
+song_begin: JKT48 - Aitakata.mp3
+Time: 146
+Artist: JKT48 www.frencomedia.com
+AlbumArtist: JKT48
+Title: Aitakata
+Album: www.frencomedia.com
+Genre: www.frencomedia.com
+Composer: www.frencomedia.com
+mtime: 1347216670
+song_end
+song_begin: armada - hargai aku (www.kompag.co.cc).mp3
+Time: 244
+Artist: Armada (www.kompag.co.cc)
+Title: Armada - Hargai Aku (www.kompag.co.cc)
+Album: www.kompag.co.cc
+Genre: www.kompag.co.cc
+mtime: 1339133256
+song_end
+song_begin: Armada+-+Bebaskan+Diriku.mp3
+Time: 1183
+Artist: Armada
+AlbumArtist: www.lagubagus.com
+Title: Bebaskan Diriku
+Album: www.lagubagus.com
+Genre: www.lagubagus.com
+Composer: www.lagubagus.com
+mtime: 1347372865
+song_end
+song_begin: Ungu Feat Rossa - Ku Pinang Kau Dengan Bismillah.mp3
+Time: 228
+Artist: Ungu & Rossa
+Title: Ku Pinang Kau Dengan Bismillah
+Album: www.musik-corner.com
+Date: 2011
+Genre: Pop
+mtime: 1313526270
+song_end
+song_begin: ST12 - Setiaku.mp3
+Time: 267
+Album: yudee's collections
+Date: 2010
+Genre: Other
+mtime: 1323166394
+song_end
+song_begin: 02 Velonica aqua times.mp3
+Time: 280
+Artist: Aqua Timez
+AlbumArtist: Aqua Timez
+Title: Velonica
+Album: うたい去りし花
+Track: 2/15
+Date: 2009
+Genre: J-Pop
+Disc: 1/1
+mtime: 1321558984
+song_end
+song_begin: Velonica - aqua times.mp3
+Time: 280
+Artist: Aqua Timez
+AlbumArtist: Aqua Timez
+Title: Velonica
+Album: うたい去りし花
+Track: 2/15
+Date: 2009
+Genre: J-Pop
+Disc: 1/1
+mtime: 1336750288
+song_end

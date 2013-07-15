@@ -1,0 +1,29 @@
+#!/bin/bash
+#
+# pop-up calendar for dzen
+#
+# based on (c) 2007, by Robert Manea
+# http://dzen.geekmode.org/dwiki/doku.php?id=dzen:calendar
+# modified by urukrama
+# 
+
+TODAY=$(expr `date +'%d'` + 0)
+MONTH=`date +'%m'`
+YEAR=`date +'%Y'`
+FONT="-*-fixed-*-*-*-*-12-*-*-*-*-*-*-*"
+
+(
+echo '^bg(#000000)^fg(#21587C)'`date +'%A %d %B %Y %n'`; echo
+\
+# current month, hilight header and today
+cal \
+    | sed -re "s/^(.*[A-Za-z][A-Za-z]*.*)$/^fg(#21587C)^bg(#000000)\1/;s/(^|[ ])($TODAY)($|[ ])/\1^bg(#21587C)^fg(#000000)\2^fg(#8D8D8D)^bg(#000000)\3/"
+
+# next month, hilight header
+[ $MONTH -eq 12 ] && YEAR=`expr $YEAR + 1`
+cal `expr \( $MONTH + 1 \) % 12` $YEAR \
+    | sed -e 's/^\(.*[A-Za-z][A-Za-z]*.*\)$/^fg(#21587C)^bg(#000000)\1/'
+
+sleep 8
+) \
+    | dzen2 -fg '#8D8D8D' -bg '#000000' -fn $FONT -x 1200 -y 23 -w 160 -l 18 -sa c -e 'onstart=uncollapse;unhide;button1=exit;button3=exit;button4=scrollup;button5=scrolldown'

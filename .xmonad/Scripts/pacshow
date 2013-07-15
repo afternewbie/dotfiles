@@ -1,0 +1,21 @@
+#!/bin/bash
+# ------------------------------------------------------------------
+#
+#     Scripts/pacshow
+#     Description: Show the name of the packages awaiting the update
+#     Author: Alex Sánchez <kniren@gmail.com>
+#
+# ------------------------------------------------------------------
+background="#000000"
+foreground=#8D8D8D
+highlight="#21587C"
+FONT="-*-fixed-*-*-*-*-12-*-*-*-*-*-*-*"
+XPOS="975"
+YPOS="22"
+pacmanlines=$(pacman -Qu | wc -l)
+LINES=$(( $pacmanlines  + 2 ))
+WIDTH=180
+
+updates=$(pacman -Qqu)
+
+(echo "^fg($highlight)Updates"; echo " ";echo "$updates") | dzen2 -p -fg $foreground -bg $background -fn $FONT -x $XPOS -y $YPOS -w $WIDTH -l $LINES -sa c  -e 'onstart=uncollapse;unhide;button1=exit;button3=exit'
