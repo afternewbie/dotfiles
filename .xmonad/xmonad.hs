@@ -101,7 +101,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     -- mod-[1..9], Switch to workspace N
     -- mod-shift-[1..9], Move client to workspace N
     [((m .|. modm, k), windows $ f i)
-        | (i, k) <- zip (XMonad.workspaces conf) [xK_1,xK_2,xK_3,xK_4,xK_5,xK_6]
+        | (i, k) <- zip (XMonad.workspaces conf) [xK_1,xK_2,xK_3,xK_4,xK_5,xK_6,xK_7]
         , (f, m) <- [(W.greedyView, 0), (W.shift, shiftMask)]]
 
     where modShift  = modm .|. shiftMask
@@ -129,32 +129,6 @@ myMouseBindings (XConfig {XMonad.modMask = modm}) = M.fromList
 -- > xprop | grep WM_CLASS
 -- Terus klik window yang ingin didapatkan nama specialnya :D
 ------------------------------------------------------------------------
---myManageHook ::  ManageHook
---myManageHook = manageDocks <+> composeAll
---    [ className =? "MPlayer"             --> doFloat
---    , className =? "MPlayer"             --> doShift (myWorkspaces !! 2)
---    , className =? "Gimp"                --> doFloat
---    , className =? "Gimp"                --> doShift (myWorkspaces !! 2)
---    , className =? "Thunar"              --> doShift (myWorkspaces !! 3)
---    , className =? "File-roller"         --> doShift (myWorkspaces !! 3)
---    , className =? "libreoffice-calc"    --> doShift (myWorkspaces !! 4)
---    , className =? "libreoffice-writter" --> doShift (myWorkspaces !! 4)
---    , className =? "libreoffice-impress" --> doShift (myWorkspaces !! 4)
---    , className =? "libreoffice-startcenter"  --> doShift (myWorkspaces !! 4)
---    , className =? "libreoffice-draw"    --> doShift (myWorkspaces !! 4)
---    , className =? "Firefox"             --> doShift (myWorkspaces !! 0)
---    , className =? "Google-chrome"       --> doShift (myWorkspaces !! 0)
---    , className =? "VirtualBox"          --> doShift (myWorkspaces !! 4)
---    , className =? "PacketTracer6"       --> doShift (myWorkspaces !! 4)
---    , resource  =? "desktop_window"      --> doIgnore
---    , resource  =? "kdesktop"            --> doIgnore
---    , resource  =? "stalonetray"	 --> doIgnore
---    , isFullscreen --> doFullFloat ]
-
-manageHookg :: ManageHook
--- manageHookg = manageHook defaultConfig <+> manageDocks <+> myManageHook
-manageHookg = manageDocks <+> myManageHook
-
 myManageHook :: ManageHook
 myManageHook = composeAll . concat $
      [ [ className =? c --> doShift    	        (myWorkspaces !! 0) | c <- utama]
@@ -164,9 +138,11 @@ myManageHook = composeAll . concat $
      , [ className =? c --> doShift		(myWorkspaces !! 6) | c <- utilitis]
      , [ className =? c --> doCenterFloat			    | c <- terminal]
      , [ className =? c --> doCenterFloat			    | c <- ngambang]
+     , [ name      =? n --> doCenterFloat			    | n <- popUp]
      , [ resource  =? r --> doIgnore				    | r <- doIgnores]
      , [ isFullscreen   --> doFullFloat ]
      ] where
+          name          = stringProperty "WM_NAME"
           utama 	= ["Firefox", "Google-chrome"]
           desain	= ["Gimp"]
           multimedia	= ["Totem", "MPlayer"]
@@ -174,6 +150,9 @@ myManageHook = composeAll . concat $
           utilitis	= ["Gcolor3", "Nitrogen", "Lxappearance", "Vidalia"]
           terminal	= ["URxvt"]
           ngambang	= ["MPlayer", "Gimp", "Xmessage", "Xfce4-screenshooter"]
+	  popUp		= [ "Add media", "Choose a file", "Open Image", "File Operation Progress", "Firefox Preferences", "Preferences", "Search Engines"
+                          , "Set up sync", "Passwords and Exceptions", "Autofill Options", "Rename File", "Copying files", "Moving files", "File Properties", "Replace"
+                          , "libreoffice-startcenter", "libreoffice-writer", "libreoffice-calc", "libreoffice-impress", "libreoffice-draw", "libreoffice-base", "libreoffice-math"]
           doIgnores	= ["stalonetray", "kdesktop", "desktop_window"]
 
 ------------------------------------------------------------------------
@@ -276,7 +255,7 @@ main = do
         mouseBindings             = myMouseBindings,
         logHook                   = myLogHook d,
         layoutHook                = smartBorders myLayout,
-        manageHook                = manageHookg,
+        manageHook                = myManageHook <+> manageDocks,
         handleEventHook           = FS.fullscreenEventHook,
         startupHook               = setWMName "LG3D"
     }
