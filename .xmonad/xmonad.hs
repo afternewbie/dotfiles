@@ -8,6 +8,7 @@ import XMonad.Hooks.DynamicLog
 import XMonad.Hooks.ManageDocks (manageDocks, avoidStruts)
 import XMonad.Hooks.ManageHelpers
 import XMonad.Hooks.SetWMName
+import XMonad.Hooks.UrgencyHook
 import XMonad.Layout.MultiToggle
 import XMonad.Layout.SimplestFloat
 import XMonad.Layout.MultiToggle.Instances
@@ -26,7 +27,7 @@ import qualified XMonad.StackSet          as W
 -- Layout names and quick access keys
 ------------------------------------------------------------------------
 myWorkspaces :: [String]
-myWorkspaces        = clickable . (map dzenEscape) $ ["satu","dua","tiga","empat","lima","enam"] 
+myWorkspaces        = clickable . (map dzenEscape) $ ["satu","dua","tiga","empat","lima","enam","tujuh"] 
   where clickable l = [ "^ca(1,xdotool key super+" ++ show (n) ++ ")" ++ ws ++ "^ca()" |
                             (i,ws) <- zip [1..] l,
                             let n = i ]
@@ -52,6 +53,9 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     , ((modm,xK_j) , windows W.focusDown )
     , ((modm,xK_k)  , windows W.focusUp    )
     , ((modm,xK_m)  , windows W.focusMaster)
+    -- Urgency Hook
+    , ((modm, xK_x), focusUrgent)
+    , ((modShift, xK_x), focusUrgent)
     -- Geser Fokus Window
     , ((modShift,xK_Return), windows W.swapMaster)
     , ((modShift,xK_j)     , windows W.swapDown  )
@@ -125,27 +129,52 @@ myMouseBindings (XConfig {XMonad.modMask = modm}) = M.fromList
 -- > xprop | grep WM_CLASS
 -- Terus klik window yang ingin didapatkan nama specialnya :D
 ------------------------------------------------------------------------
-myManageHook ::  ManageHook
-myManageHook = manageDocks <+> composeAll
-    [ className =? "MPlayer"             --> doFloat
-    , className =? "MPlayer"             --> doShift (myWorkspaces !! 2)
-    , className =? "Gimp"                --> doFloat
-    , className =? "Gimp"                --> doShift (myWorkspaces !! 2)
-    , className =? "Thunar"              --> doShift (myWorkspaces !! 3)
-    , className =? "File-roller"         --> doShift (myWorkspaces !! 3)
-    , className =? "libreoffice-calc"    --> doShift (myWorkspaces !! 4)
-    , className =? "libreoffice-writter" --> doShift (myWorkspaces !! 4)
-    , className =? "libreoffice-impress" --> doShift (myWorkspaces !! 4)
-    , className =? "libreoffice-startcenter"  --> doShift (myWorkspaces !! 4)
-    , className =? "libreoffice-draw"    --> doShift (myWorkspaces !! 4)
-    , className =? "Firefox"             --> doShift (myWorkspaces !! 0)
-    , className =? "Google-chrome"       --> doShift (myWorkspaces !! 0)
-    , className =? "VirtualBox"          --> doShift (myWorkspaces !! 4)
-    , className =? "PacketTracer6"       --> doShift (myWorkspaces !! 4)
-    , resource  =? "desktop_window"      --> doIgnore
-    , resource  =? "kdesktop"            --> doIgnore
-    , resource  =? "stalonetray"	 --> doIgnore
-    , isFullscreen --> doFullFloat ]
+--myManageHook ::  ManageHook
+--myManageHook = manageDocks <+> composeAll
+--    [ className =? "MPlayer"             --> doFloat
+--    , className =? "MPlayer"             --> doShift (myWorkspaces !! 2)
+--    , className =? "Gimp"                --> doFloat
+--    , className =? "Gimp"                --> doShift (myWorkspaces !! 2)
+--    , className =? "Thunar"              --> doShift (myWorkspaces !! 3)
+--    , className =? "File-roller"         --> doShift (myWorkspaces !! 3)
+--    , className =? "libreoffice-calc"    --> doShift (myWorkspaces !! 4)
+--    , className =? "libreoffice-writter" --> doShift (myWorkspaces !! 4)
+--    , className =? "libreoffice-impress" --> doShift (myWorkspaces !! 4)
+--    , className =? "libreoffice-startcenter"  --> doShift (myWorkspaces !! 4)
+--    , className =? "libreoffice-draw"    --> doShift (myWorkspaces !! 4)
+--    , className =? "Firefox"             --> doShift (myWorkspaces !! 0)
+--    , className =? "Google-chrome"       --> doShift (myWorkspaces !! 0)
+--    , className =? "VirtualBox"          --> doShift (myWorkspaces !! 4)
+--    , className =? "PacketTracer6"       --> doShift (myWorkspaces !! 4)
+--    , resource  =? "desktop_window"      --> doIgnore
+--    , resource  =? "kdesktop"            --> doIgnore
+--    , resource  =? "stalonetray"	 --> doIgnore
+--    , isFullscreen --> doFullFloat ]
+
+manageHookg :: ManageHook
+-- manageHookg = manageHook defaultConfig <+> manageDocks <+> myManageHook
+manageHookg = manageDocks <+> myManageHook
+
+myManageHook :: ManageHook
+myManageHook = composeAll . concat $
+     [ [ className =? c --> doShift    	        (myWorkspaces !! 0) | c <- utama]
+     , [ className =? c --> doShift     	(myWorkspaces !! 3) | c <- desain]
+     , [ className =? c --> doShift		(myWorkspaces !! 4) | c <- multimedia]
+     , [ className =? c --> doShift		(myWorkspaces !! 5) | c <- kantor]
+     , [ className =? c --> doShift		(myWorkspaces !! 6) | c <- utilitis]
+     , [ className =? c --> doCenterFloat			    | c <- terminal]
+     , [ className =? c --> doCenterFloat			    | c <- ngambang]
+     , [ resource  =? r --> doIgnore				    | r <- doIgnores]
+     , [ isFullscreen   --> doFullFloat ]
+     ] where
+          utama 	= ["Firefox", "Google-chrome"]
+          desain	= ["Gimp"]
+          multimedia	= ["Totem", "MPlayer"]
+          kantor	= ["libreoffice-calc", "libreoffice-writter", "libreoffice-impress", "libreoffice-startcenter", "libreoffice-draw", "Thunar", "Nautilus"]
+          utilitis	= ["Gcolor3", "Nitrogen", "Lxappearance", "Vidalia"]
+          terminal	= ["URxvt"]
+          ngambang	= ["MPlayer", "Gimp", "Xmessage", "Xfce4-screenshooter"]
+          doIgnores	= ["stalonetray", "kdesktop", "desktop_window"]
 
 ------------------------------------------------------------------------
 -- Status bars and logging --
@@ -235,7 +264,7 @@ main :: IO ()
 main = do
     d <- spawnPipe callDzen1
     spawn callDzen2
-    xmonad $ defaultConfig {
+    xmonad $ withUrgencyHook NoUrgencyHook $ defaultConfig {
         terminal                  = "urxvtc",
         focusFollowsMouse         = True,
         borderWidth               = 3,
@@ -247,7 +276,7 @@ main = do
         mouseBindings             = myMouseBindings,
         logHook                   = myLogHook d,
         layoutHook                = smartBorders myLayout,
-        manageHook                = myManageHook,
+        manageHook                = manageHookg,
         handleEventHook           = FS.fullscreenEventHook,
         startupHook               = setWMName "LG3D"
     }
