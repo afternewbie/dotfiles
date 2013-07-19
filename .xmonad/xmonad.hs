@@ -40,9 +40,10 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     [
     -- jalanken dmenu
       ((modm,xK_p), spawn dmenuCall)
-    -- Tutup fokus window dan Keluar dari Xmonad
+    -- Sistem Xmonad
     , ((modShift, xK_Escape), spawn "killall udiskie dzen2 compton urxvtd mpd" >> io (exitWith ExitSuccess))
     , ((modShift,xK_q), kill)
+    , ((modShift,xK_r) , spawn "killall dzen2; xmonad --recompile; xmonad --restart")
      -- Ganti Layout
     , ((modm,xK_space), sendMessage NextLayout)
      -- Pindah Wokspaces
@@ -71,16 +72,17 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
     -- fulscreen window
     , ((modm,xK_f), sendMessage $ Toggle FULL)
     -- Aplikasi 
-    , ((modShift,xK_g) , spawn "gimp" )
-    , ((modShift,xK_t) , spawn "/opt/pt/packettracer" )
-    , ((modShift,xK_v) , spawn "virtualbox" )
+    , ((mod1cont,xK_g) , spawn "gimp")
+    , ((mod1cont,xK_t) , spawn "/opt/pt/packettracer")
+    , ((mod1cont,xK_v) , spawn "virtualbox")
     , ((modShift,xK_p) , spawn "gmrun")
     , ((0, xK_Print)   , spawn "xfce4-screenshooter")
     , ((modm,xK_Return), spawn $ XMonad.terminal conf)
-    , ((modShift,xK_i) , spawn "firefox"       )
-    , ((modShift,xK_n) , spawn "thunar"            )
-    -- , ((modShift,xK_m) , spawn "urxvtc -e ncmpcpp"    )
-    , ((modShift,xK_r) , spawn "killall dzen2; xmonad --recompile; xmonad --restart")
+    , ((mod1cont,xK_f) , spawn "firefox")
+    , ((mod1cont,xK_c) , spawn "google-chrome")
+    , ((mod1cont,xK_l) , spawn "libreoffice")
+    , ((mod1cont,xK_e) , spawn "thunar")
+    , ((mod1cont,xK_z) , spawn "zekr.sh")
     -- Pengaturan Alsa
     , ((0, 0x1008ff11), spawn "/home/arietux/.xmonad/Scripts/volctl down"  )
     , ((0, 0x1008ff13), spawn "/home/arietux/.xmonad/Scripts/volctl up"    )
@@ -105,6 +107,7 @@ myKeys conf@(XConfig {XMonad.modMask = modm}) = M.fromList $
         , (f, m) <- [(W.greedyView, 0), (W.shift, shiftMask)]]
 
     where modShift  = modm .|. shiftMask
+          mod1cont  = mod1Mask .|. controlMask
           dmenuCall = "dmenu_run -i"
                       ++ " -fn 'termsyn-8' "
                       ++ " -sb '" ++ colLook Cyan 0 ++ "'"
@@ -143,17 +146,19 @@ myManageHook = composeAll . concat $
      , [ isFullscreen   --> doFullFloat ]
      ] where
           name          = stringProperty "WM_NAME"
-          utama 	= ["Firefox", "Google-chrome"]
-          desain	= ["Gimp"]
-          multimedia	= ["Totem", "MPlayer"]
-          kantor	= ["libreoffice-calc", "libreoffice-writter", "libreoffice-impress", "libreoffice-startcenter", "libreoffice-draw", "Thunar", "Nautilus"]
-          utilitis	= ["Gcolor3", "Nitrogen", "Lxappearance", "Vidalia"]
-          terminal	= ["URxvt"]
-          ngambang	= ["MPlayer", "Gimp", "Xmessage", "Xfce4-screenshooter"]
+          utama 	= [ "Firefox", "Google-chrome"]
+          desain	= [ "Gimp"]
+          multimedia	= [ "Totem", "MPlayer"]
+          kantor	= [ "libreoffice-calc", "libreoffice-writter", "libreoffice-impress", "libreoffice-startcenter", "libreoffice-draw", "Thunar", "Nautilus", "SWT"]
+          utilitis	= [ "Vidalia"]
+          terminal	= [ "URxvt"]
+          ngambang	= [ "MPlayer", "Xmessage", "Xfce4-screenshooter", "Gedit", "Lxappearance"
+			  , "Gcolor3", "DTA"]
 	  popUp		= [ "Add media", "Choose a file", "Open Image", "File Operation Progress", "Firefox Preferences", "Preferences", "Search Engines"
                           , "Set up sync", "Passwords and Exceptions", "Autofill Options", "Rename File", "Copying files", "Moving files", "File Properties", "Replace"
-                          , "libreoffice-startcenter", "libreoffice-writer", "libreoffice-calc", "libreoffice-impress", "libreoffice-draw", "libreoffice-base", "libreoffice-math"]
-          doIgnores	= ["stalonetray", "kdesktop", "desktop_window"]
+                          , "libreoffice-startcenter", "libreoffice-writer", "libreoffice-calc", "libreoffice-impress", "libreoffice-draw", "libreoffice-base", "libreoffice-math"
+			  , "DownThemAll"]
+          doIgnores	= [ "stalonetray", "kdesktop", "desktop_window"]
 
 ------------------------------------------------------------------------
 -- Status bars and logging --
@@ -243,6 +248,7 @@ main :: IO ()
 main = do
     d <- spawnPipe callDzen1
     spawn callDzen2
+    mulai <- spawnPipe "/home/arietux/.xmonad/autostart.sh"
     xmonad $ withUrgencyHook NoUrgencyHook $ defaultConfig {
         terminal                  = "urxvtc",
         focusFollowsMouse         = True,
@@ -268,10 +274,7 @@ main = do
           -- dzenFont  = "Inconsolata-8"
           dzenFont  = "Ubuntumono-8"
           -- | Layouts --
-          myLayout = mkToggle (NOBORDERS ?? FULL ?? EOT) $
-              avoidStruts $
-              webLayout
-              standardLayout
+          myLayout = mkToggle (NOBORDERS ?? FULL ?? EOT) $ avoidStruts $ webLayout $ desainLayout $ standardLayout 
               where
                   standardLayout = float
                                    ||| tiled
@@ -279,10 +282,10 @@ main = do
 				   ||| mirrorTiled
 				   ||| hozTile
 				   ||| focused
-                  webLayout      = onWorkspace (myWorkspaces !! 1) $ float
+                  webLayout      = onWorkspace (myWorkspaces !! 0) $ fullTiled
                                    ||| tiled
-                                   ||| mirrorTiled
-				   ||| fullTiled
+                  desainLayout   = onWorkspace (myWorkspaces !! 3) $ fullTiled
+                                   ||| tiled
                   fullTiled      = Tall nmaster delta (1/4)
                   mirrorTiled    = Mirror . spacing 20 $ Tall nmaster delta ratio
                   focused        = gaps [(L,385), (R,385),(U,10),(D,10)]
